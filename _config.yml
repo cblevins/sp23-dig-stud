@@ -12,23 +12,23 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Intro to Digital Studies"
+title                    : "Introduction to Digital Studies"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "CU Denver (Spring 2023)" # site tagline that appears below site title in masthead
 name                     : "Cameron Blevins"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "CU Denver - Spring 2023"
+url                      : "https://cblevins.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/sp23-dig-stud" # the subpath of your site, e.g. "/blog"
+repository               : "cblevins/sp23-dig-stud" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/cu_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -101,21 +101,37 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Prof. Cameron Blevins"
+  avatar           : "/assets/images/blevins-headshot-2022-small.jpg"
+  bio              : "Introduction to Digital Studies<br>
+                    HIST 3260/5260 \\| COMM 3081/5081<br>
+                    M/W 2:00-3:15pm<br>
+                    North Classroom 1608<br>
+                    Office Hours: W. 3:30-4:30pm"
+  location         :
   email            :
+  classtime        : "M/W 2:00-3:15pm"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:cameron.blevins@ucdenver.edu"
+    - label: "Canvas Course Site"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://cameronblevins.org"
+    - label: "Slack Workspace"
+      icon: "fab fa-slack"
+      url: "https://slack.com"
+    #- label: "Office Hours: W. 3:15pm"
+    #  icon: "fas fa-clock"
+    #  url: "https://zoom.us"
+    - label: " Office: SC 3108"
+      icon: "fas fa-building"
+      url: "https://goo.gl/maps/Dsi17MkZmCoLXUWZ7"
+    - label: "Office Hours Zoom"
+      icon: "fas fa-video"
+      url: "https://zoom.us"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -209,6 +225,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  in-class:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -290,3 +311,62 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+  # _in-class
+  - scope:
+      path: ""
+      type: in-class
+    values:
+      layout: single
+      #classes: wide
+      author_profile: true
+      share: false
+      comments: false
+      toc: true
+
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
