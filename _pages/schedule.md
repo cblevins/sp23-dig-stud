@@ -7,9 +7,7 @@ toc_sticky: true
 classes: narrow
 ---
 
-### Going Remote
-
-*The first two weeks of the semester will be conducted remotely  -  part of a larger sea change in both higher education and some areas of the private sector. I thought we could use this as an opportunity to discuss some of the larger implications of learning and working remotely and some of the concrete skills in how to do so effectively.*
+### Orientation
 
 #### Tue., Jan. 18: Introductions
 

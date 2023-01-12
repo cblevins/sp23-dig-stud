@@ -1,6 +1,5 @@
 ---
 permalink: /
-title:
 classes: wide
 ---
 
@@ -10,9 +9,9 @@ classes: wide
 <p>
 HIST 3260/5260 | COMM 3081/5081<br>
 Professor Cameron Blevins (he/him/his) | cameron.blevins@ucdenver.edu<br>
-University of Colorado Denver, Spring 2022<br>
-Tu/Th 3:30-4:45pm, North Classroom 1521<br>
-Office Hours: Th. 9:30am-10:30am (<a href=" https://ucdenver.zoom.us/j/97477262669">over Zoom</a>)<br>
+University of Colorado Denver, Spring 2023<br>
+M/W 2:00-3:15pm, North Classroom 1608<br>
+Office Hours: W. 3:30-4:30pm (in person or <a href="https://ucdenver.zoom.us/j/94563999551">over Zoom</a>)<br>
 Office: Student Commons 3108 
 </p>
 </div>

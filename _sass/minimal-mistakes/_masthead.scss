@@ -2,8 +2,51 @@
    MASTHEAD
    ========================================================================== */
 
+/* ==========================================================================
+original masthead stuff:
 .masthead {
   position: relative;
+  border-bottom: 1px solid $border-color;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.15s;
+  animation-delay: 0.15s;
+  z-index: 20;
+
+  &__inner-wrap {
+    @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    max-width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $max-width;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+   ========================================================================== */
+.masthead {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 85px;
+  background: $background-color;  //<-- set header's background color
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;

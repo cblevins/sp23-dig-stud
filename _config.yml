@@ -119,7 +119,7 @@ author:
       url: "mailto:cameron.blevins@ucdenver.edu"
     - label: "Canvas Course Site"
       icon: "fas fa-fw fa-link"
-      url: "https://cameronblevins.org"
+      url: "https://https://ucdenver.instructure.com/courses/503517"
     - label: "Slack Workspace"
       icon: "fab fa-slack"
       url: "https://slack.com"
@@ -131,7 +131,7 @@ author:
       url: "https://goo.gl/maps/Dsi17MkZmCoLXUWZ7"
     - label: "Office Hours Zoom"
       icon: "fas fa-video"
-      url: "https://zoom.us"
+      url: "https://ucdenver.zoom.us/j/94563999551"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -230,6 +230,9 @@ collections:
   in-class:
     output: true
     permalink: /:collection/:path/
+  assignments:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -320,7 +323,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-  # _in-class
+  # _in-class collection
   - scope:
       path: ""
       type: in-class
@@ -331,7 +334,6 @@ defaults:
       share: false
       comments: false
       toc: true
-
   # _docs
   - scope:
       path: ""
