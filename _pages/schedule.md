@@ -41,9 +41,8 @@ If you haven't done so already, complete the introductory [student survey](https
 	- COMM only: ["Microsoft and the Metaverse"](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?) *The Daily* podcast (January 20, 2022). (25 min.) [[Link to full transcript](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1)].
 
 _In Class_
+- Class visit from [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
 - [File Manager in Reclaim Hosting]({{site.baseurl}}/modules/file-manager)
-
-[comment]: # (Class visit from [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.)
 
 #### Wed., Feb. 1: Personal Websites
 - Follow [these instructions]({{site.baseurl}}/modules/install-wordpress) to install a Wordpress site in your Reclaim Hosting server space.
@@ -56,7 +55,7 @@ _In Class_
 - [Wordpress Introduction]({{site.baseurl}}/modules/wordpress-intro)
 
 #### Mon., Feb. 6: Personal Websites II
-- Add a [resume page to your website]({{site.baseurl}}/modules/resume-website/). Post the URL of your site to the `#assignments` channel in Slack.  
+- Add a [resume page to your website]({{site.baseurl}}/modules/resume-website/). Post the URL of your site to Canvas.
 
 _In Class_
 - Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon

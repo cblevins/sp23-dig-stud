@@ -22,7 +22,7 @@ classes: narrow
 
 *In addition to readings, hands-on homework, and in-class discussions and activities, I have given you a series of more formal assignments to complete. These assignments are as follows:*
 
-#### [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation) (1/26-1/30)
+#### [Career Checklist]({{site.baseurl}}/assignments/career-checklist) (throughout semester)
 
 #### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene) (2/13)
 
