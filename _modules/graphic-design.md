@@ -14,7 +14,7 @@ Today you will be learning the basics of Adobe Illustrator.
 
 ## Create a Course Flyer
 
-To put your new skills into practice, you're going to design a basic flyer for this class. Download the following Adobe Illustrator file to the class folder on your computer get started: [course-flyer.ai]({{site.baseurl}}/in-class/course-flyer.ai).
+To put your new skills into practice, you're going to design a basic flyer for this class. Download the following Adobe Illustrator file to the class folder on your computer get started: [course-flyer.ai]({{site.baseurl}}/modules/course-flyer.ai).
 
 Open `course-flyer.ai` in Illustrator and complete the following:
 

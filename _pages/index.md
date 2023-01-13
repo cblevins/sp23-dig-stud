@@ -18,10 +18,9 @@ Office: Student Commons 3108
 
 ## Course Description 
 
-This course equips students to be effective and responsible users of modern technology. It does so through two pathways, one conceptual and the other practical. First, students will develop a conceptual framework for studying different platforms, software, applications, and tech companies and the role they play within modern society, tackling larger topics like consumer privacy, critical data studies, and algorithmic bias. Second, students will learn how to use an array of technology, such as building a personal website, recording and editing audio, processing and analyzing data, and making digital maps. 
+This course equips students to be effective and responsible users of modern technology. It does so through two pathways, one conceptual and the other practical. First, students will develop a conceptual framework for studying different platforms, software, applications, and tech companies and the role they play within modern society, tackling larger topics like artificial intelligence, consumer privacy, and algorithmic bias. Second, students will learn how to use an array of technology, such as building a personal website, graphic design, editing videos, audio recording, processing and analyzing data, and making maps and visualizations.
 
 *Note: This course serves as an introduction to the [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/) and provides 3.0 approved credit hours within the Certificate's Integration cluster.*
-
 
 ## Learning Goals
 

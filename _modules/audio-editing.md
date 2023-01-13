@@ -33,7 +33,7 @@ Individually watch 5:00-11:15 of Pat Flynn's ["How to Record and Edit a Podcast 
 - Start a new project and import the .mp3 file you generated of your conversation. 
 - Use the [Selection Tool](https://manual.audacityteam.org/man/selecting_audio_the_basics.html) and delete or cut any leading or trailing dead sound or long silences in your tracks.
 - Use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) to adjust the volume of your tracks or specific parts of each track so they're relatively even
-- Import [this rockin' banjo music]({{site.baseurl}}/in-class/heftone-banjo-orchestra-whistling-rufus.mp3) and add it to your project as an audio track. Note: you might need to right-click on the link to download/save the file.
+- Import [this rockin' banjo music]({{site.baseurl}}/modules/heftone-banjo-orchestra-whistling-rufus.mp3) and add it to your project as an audio track. Note: you might need to right-click on the link to download/save the file.
 - [Select and trim](https://manual.audacityteam.org/man/audacity_tracks_and_clips.html) the banjo music audio track so that you have a roughly 10-second musical intro.
 - Use the Selection Tool to move your conversation so that it comes in towards the end of the banjo music, then use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) to fade the song out as it leads up to the conversation.
 - [Record a new track](https://manual.audacityteam.org/man/recording.html#newtrack) individually in Audacity where you "sign off" and say goodbye to your listeners, then move that using the Selection tool to position that track at the end of your combined recording.

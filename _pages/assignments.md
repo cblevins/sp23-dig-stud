@@ -36,4 +36,4 @@ classes: narrow
 
 #### [Final Project]({{site.baseurl}}/assignments/final-project) (Rough Draft: 5/3, Final: 5/12)
 
-#### [Self Assessments]({{site.baseurl}}/assignments/self-assessments) (2/20, 3/27, 5/12)
+#### [Self Assessments]({{site.baseurl}}/assignments/self-assessments) (2/20, 3/27, 5/12)/modules/

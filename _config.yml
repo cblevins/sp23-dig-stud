@@ -227,7 +227,7 @@ kramdown:
 
 # Collections
 collections:
-  in-class:
+  modules:
     output: true
     permalink: /:collection/:path/
   assignments:
@@ -323,10 +323,10 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-  # _in-class collection
+  # _modules collection
   - scope:
       path: ""
-      type: in-class
+      type: modules
     values:
       layout: single
       #classes: wide

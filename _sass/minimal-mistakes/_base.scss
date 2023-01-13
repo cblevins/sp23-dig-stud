@@ -14,7 +14,8 @@ body {
   padding: 85px 0 0; //<-- set page body's top padding to 65
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  /*line-height: 1.5; */
+  line-height: 1.25;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -65,7 +66,8 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-top: 0em;
+  margin-bottom: 0m;
 }
 
 u,
@@ -174,12 +176,12 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.2em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0em;
 }
 
 /*

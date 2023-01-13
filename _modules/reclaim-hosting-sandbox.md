@@ -23,3 +23,4 @@ Now let's try adding a file into your `sandbox` folder. While still in File Mana
 In a new browser tab, navigate to: `https://yourdomainnameurl/sandbox/hello.html` and you should see your message. Congratulations! 
 
 If you get done with this step and your classmates are still working, go back to editing the `hello.html` file in the HTML Editor and try to make **the ugliest webpage you possibly can** (you can change the appearance of text using various buttons along the top row - ex. color, bold, etc.). Send your ugly webpage contestant to the `#in-class` Slack channel.
+/modules/

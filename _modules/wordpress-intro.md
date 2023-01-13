@@ -9,7 +9,7 @@ Today you will be learning the basics of how to create a website using Wordpress
 In your group, divide up the following personal websites. Each person take a few minutes to go through a professional website from different people who are somehow related to the class (author of a reading, speaking to our class, or involved with the Digital Studies Certificate):
 
 1. <http://bogost.com/>
-2. <http://abbymullen.org/>
+2. <https://carolineklibanoff.com/>
 3. <https://amyhasinoff.wordpress.com/>
 
 Go through the website and think about what kind of information it includes, how it is organized, what message it is sending about the person.
@@ -49,5 +49,5 @@ I'm going to have you go through a few tutorials and then apply what you learned
 
 ### Bonus
 
-If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is [this image of the Denver skyline](https://cblevins.github.io/sp22-dig-stud/in-class/denver-skyline.jpg). Try googling to find instructions or tips!
+If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is [this image of the Denver skyline](https://cblevins.github.io/sp22-dig-stud/modules/denver-skyline.jpg). Try googling to find instructions or tips!
 
