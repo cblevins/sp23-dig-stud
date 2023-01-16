@@ -9,8 +9,6 @@ classes: narrow
 #### Baseline Expectations
 *As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be using a traditional grading scheme to evaluate your work. Instead I have outlined a set of baseline expectations that you need to meet to succeed in this class. I will notify you during the semester if I feel you are not meeting one or more of these expectations.*
 
-- Carefully complete the assigned readings or tasks for each class
-	- Note: if a reading is marked "Annotate in Hypothesis" in the Course Schedule, you will need to access the reading in Hypothesis via the [course Canvas site](https://ucdenver.instructure.com/courses/479412/) and complete your annotations by 2:00pm of that day's class (unless otherwise noted)
 - Attend each class **on time and prepared** to discuss that day's topics and readings. There are 30 classes in the semester and I don't expect or require perfect attendance. You do, however, need to be contributing to the classroom community, which is not going to be possible if you miss too many classes. If you need to miss class, please notify Professor Blevins (you don't need to give me a reason) and review the material or workshops to get caught up prior to the next class. 
 - Actively participate in class activities and discussions. For discussions, this means making observations and asking questions that help the class think together. For hands-on workshops, this means making a good-faith effort to complete the activity and helping your peers to do so as well if they are struggling.
 - Behave professionally and respectfully with each other. You can disagree and push each other to consider other perspectives, but bullying, intimidation, or discrimination will not be tolerated under any circumstances.
@@ -21,6 +19,8 @@ classes: narrow
 ---
 
 *In addition to readings, hands-on homework, and in-class discussions and activities, I have given you a series of more formal assignments to complete. These assignments are as follows:*
+
+#### [Perusall Annotations] (throughout semester)
 
 #### [Career Checklist]({{site.baseurl}}/assignments/career-checklist) (throughout semester)
 
