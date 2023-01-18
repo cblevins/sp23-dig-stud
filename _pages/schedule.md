@@ -7,7 +7,7 @@ toc_sticky: true
 classes: narrow
 ---
 
-*Note: Assignments you need to submit directly on Canvas are highlighted below*
+*Note: Assignment due dates appear as highlighted text*
 {: .notice--info}
 
 ## Orientation
@@ -25,7 +25,6 @@ classes: narrow
 	- Discussion of current state of tech
 
 ### Wed., Jan. 25: The Digital Landscape of 2023
-- If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6).
 - Join the class Slack workspace (see Canvas or university email for invitation), customize your profile picture, and write a message introducing yourself in the `#general` channel that includes one image (GIF, meme, picture of your pet - whatever you want!)
 - Sign up for [a free NYTimes student account](https://library.auraria.edu/news/2022/new-year-new-tools-access-new-york-times)
 - Perusall:
@@ -34,6 +33,9 @@ classes: narrow
 - In Class:
 	- What you want to get out of the course, troubleshooting Slack and Perusall
 	- Hands-on exploration of ChatGPT and Artificial Intelligence
+
+*If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by 1/27*
+{: .notice--info}
 
 ## Your Digital Identity
 
@@ -105,6 +107,9 @@ classes: narrow
 
 [comment]: # (Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019))
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
+
+*Meet with Professor Blevins for one-on-one meeting by February 17th*
+{: .notice--info}
 
 *First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due February 19th*
 {: .notice--info}
