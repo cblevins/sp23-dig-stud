@@ -2,7 +2,7 @@
 title: File Manager in Reclaim Hosting
 ---
 
-The goal of this activity is to get more comfortable with using the File Mangager in Reclaim Hosting (accessed through the cPanel). If you had trouble creating a sandbox directory, please review [Creating a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/modules/reclaim-hosting-sandbox) and make sure you have a folder called `sandbox` inside your `public_html` folder in File Manager.
+The goal of this activity is to get more comfortable with using the File Mangager in Reclaim Hosting (accessed through the cPanel). If you had trouble creating a directory, please review [Creating a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/modules/reclaim-hosting-sandbox) and make sure you have a folder called `sandbox` inside your `public_html` folder in File Manager.
 
 Although you are going to be using your Reclaim Hosting server space to host a personal website, you can also host individual files. To demonstrate, we're going to work with an image of Professor Blevins's ferocious cat.
 

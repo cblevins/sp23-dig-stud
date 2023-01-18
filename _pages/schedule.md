@@ -42,15 +42,15 @@ classes: narrow
 ### Mon., Jan. 30: A Domain of Your Own
 - Follow [these instructions]({{site.baseurl}}/modules/reclaim-hosting-registration) to register for a Reclaim Hosting account.
 - Perusall:
-	- Audrey Watters, ["The Web We Need to Give Students"](https://brightthemag.com/the-web-we-need-to-give-students-311d97713713#.baxz2qqib) *BRIGHT Magazine* (July 15, 2015).
-	- HIST only: Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019)
-	- COMM only: Steven Marche, ["The College Essay is Dead"](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/) *The Atlantic* (December 6, 2022).
+	- Audrey Watters, ["The Web We Need to Give Students"](https://brightthemag.com/the-web-we-need-to-give-students-311d97713713#.baxz2qqib) *BRIGHT Magazine* (July 15, 2015). [[Perusall]](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-web-we-need-to-give-students-giving-students-their-own-digital-or-by-audrey-watters-or-bright-magazine-143799836?assignmentId=WbNqPmEeCLgAPmAXe&part=1)
+	- HIST only: Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019). [[Perusall]](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/digital-history-the-inclusive-historian-s-handbook-258232500?assignmentId=uX8Ff6avxRJQSfhwg&part=1) 
+	- COMM only: Steven Marche, ["The College Essay is Dead"](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/) *The Atlantic* (December 6, 2022). [Perusall]
 
 [comment]: # (["Microsoft and the Metaverse"](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?) *The Daily* podcast (January 20, 2022). (25 min.) [[Link to full transcript](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1)].)
 
 - In Class:
 	- Class visit from [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
-	- [File Manager in Reclaim Hosting]({{site.baseurl}}/modules/file-manager)
+	- [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial
 
 ### Wed., Feb. 1: Personal Websites
 - [Create a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/modules/reclaim-hosting-sandbox)
@@ -65,17 +65,21 @@ classes: narrow
 {: .notice--info}
 
 ### Mon., Feb. 6: Personal Websites II
+- Follow [these instructions]({{site.baseurl}}/modules/wordpress-page/) to make a new page that you will use to complete your upcoming [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene)
+- Perusall:
+  - Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [Perusall]
 
 - In Class:
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
 	- Wordpress Vocab & Themes
 
 ### Wed., Feb. 8: Personal Websites III
-- Follow these instructions to [customize your wordpress site]({{site.baseurl}}/modules/customize-wordpress). 
-- Perusall:
-  - Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018)
+- Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography. 
+- Follow [these instructions]({{site.baseurl}}/modules/customize-wordpress) to customize and clean up your Wordpress site.
+- Work on your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) 
 
 - In Class:
+	- Making accessible websites
 	- Peer review of personal websites
 
 *[Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) due February 12th*
@@ -86,9 +90,8 @@ classes: narrow
 ### Mon., Feb. 13: Images
 - Sign up for Adobe Creative Cloud using your CU Denver student login credentials ([instructions here](https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/adobe-creative-cloud/adobe-cc-for-students)) and then install Adobe Illustrator on your computer.
 - Perusall:
-	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022)
-	- [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography in presentations.
-	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
+	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022) [Perusall]
+	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020). [Perusall]
 
 [comment]: # (HIST 5260 / COMM 5081 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
