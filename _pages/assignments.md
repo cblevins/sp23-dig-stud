@@ -6,34 +6,51 @@ toc_sticky: true
 classes: narrow
 ---
 
-#### Baseline Expectations
-*As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be using a traditional grading scheme to evaluate your work. Instead I have outlined a set of baseline expectations that you need to meet to succeed in this class. I will notify you during the semester if I feel you are not meeting one or more of these expectations.*
+As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be using a traditional grading scheme to evaluate your work. Instead I have established a set of baseline expectations along with formal assignments that you need to complete in order to succeed in this class. 
 
-- Attend each class **on time and prepared** to discuss that day's topics and readings. There are 30 classes in the semester and I don't expect or require perfect attendance. You do, however, need to be contributing to the classroom community, which is not going to be possible if you miss too many classes. If you need to miss class, please notify Professor Blevins (you don't need to give me a reason) and review the material or workshops to get caught up prior to the next class. 
-- Actively participate in class activities and discussions. For discussions, this means making observations and asking questions that help the class think together. For hands-on workshops, this means making a good-faith effort to complete the activity and helping your peers to do so as well if they are struggling.
-- Behave professionally and respectfully with each other. You can disagree and push each other to consider other perspectives, but bullying, intimidation, or discrimination will not be tolerated under any circumstances.
-- Complete all assignments described below by the required due date.
-- Take feedback from Professor Blevins and your classmates into account and make an effort to apply it to your assignments. I might ask you to revise and resubmit an assignment if I feel it is necessary.
-- Complete self-assessments during the semester, including a final self-assessment that reflects on what you learned during the semester and the grade you feel you should receive. I will distribute more detailed instructions for self-assessments.
+*Click on each assignment for more information on format, due dates, instructions, etc.*
 
----
+## Baseline Expectations
 
-*In addition to readings, hands-on homework, and in-class discussions and activities, I have given you a series of more formal assignments to complete. These assignments are as follows:*
+### [Attendance]({{site.baseurl}}/assignments/attendance)
+- Attend each class on time and prepared or the day's discussion and activities
 
-#### [Perusall Annotations] (throughout semester)
+### [Participation]({{site.baseurl}}/assignments/participation)
+- Actively join discussions (in person and online) and complete in-class activities
 
-#### [Career Checklist]({{site.baseurl}}/assignments/career-checklist) (throughout semester)
+### [Self Assessments]({{site.baseurl}}/assignments/self-assessments) (2/19, 3/26, 5/10)
+- Complete a series of three self-assessments over the course of the semester.
+  - Self-Assessment #1 due February 19th
+  - Self-Assessment #2 due March 26th
+  - Self-Assessment #3 due May 10th
 
-#### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene) (2/13)
+## Formal Assignments
 
-#### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (3/27)
+### [Perusall Annotations]({{site.baseurl}}/assignments/perusall-annotations/) 
+- Annotate assigned readings on Perusall by 12:30pm on the day of class
 
-#### [Media Project]({{site.baseurl}}/assignments/media-project) (4/19)
+### [Career Portfolio]({{site.baseurl}}/assignments/career-portfolio) (due dates vary)
+- Series of short task-based assignments geared towards professsionalization 
 
-#### [HIST 5260 and COMM 6710: Project Review]({{site.baseurl}}/assignments/project-review) (Various dates)
+### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene) (2/12)
+- Check up on the privacy and security of your digital identity and develop online writing skills 
 
-#### [HIST 5260 and COMM 6710: Build a Tutorial]({{site.baseurl}}/assignments/tutorial) (Anytime during the semester up to 5/12)
+### [Media Project]({{site.baseurl}}/assignments/media-project) (3/17)
+- Communicate how technology has impacted a particular aspect of society
+  - In-class presentation due March 6th
+  - Multimedia video due March 17th
 
-#### [Final Project]({{site.baseurl}}/assignments/final-project) (Rough Draft: 5/3, Final: 5/12)
+### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (4/9)
+- Evaluate a dataset and analyze/visualize some of its features
 
-#### [Self Assessments]({{site.baseurl}}/assignments/self-assessments) (2/20, 3/27, 5/12)/modules/
+### [HIST 5260 and COMM 5081: Project Review]({{site.baseurl}}/assignments/project-review) (due dates vary)
+- Present a digital project related to a particular class period's topic
+
+### [HIST 5260 and COMM 5081: Build a Tutorial]({{site.baseurl}}/assignments/tutorial) (5/8)
+- Compose a tutorial teaching a specific technical skill
+
+### [Final Project]({{site.baseurl}}/assignments/final-project) (4/14, 5/1, 5/10)
+- Produce a substantive digital project on a topic and in a format of your choosing
+  - Idea for project due April 14th
+  - Draft of final project and in-class presentation due May 1st
+  - Revised final project due May 10th

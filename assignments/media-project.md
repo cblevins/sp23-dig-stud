@@ -1,8 +1,37 @@
 ---
 title: Media Project
-permalink: /assignments/media-project/
+toc: true
+classes: narrow
 ---
 
-In this project you will take a similar approach as the Zoom Presentation, in which you will research and communicate how technology (broadly defined) has changed or otherwise influenced a specific aspect of society in the past five years. This time, you will be communicating your research through a different medium: through a visual poster, a mini "podcast" episode, or a short video. The topic needs to be different from you original Zoom presentation, but once again should have a clear message or interpretation about the technology's impact and use concrete, compelling examples to illustrate the change. The goal of this assignment is for you to, as much as possible, move away from a written style of communication and to experiment with how you can best use your chosen medium of communication to convey information. Your submission should include a post on your website sandbox that includes a short reflection on the process (how you approached it, challenges you ran into, strategies you used, etc.) along with the sources you consulted. 
+#### Assignment Overview
+In this project you will research and communicate how technology (broadly defined) has changed or otherwise influenced a specific aspect of society in the past five years and communicate your research through a **5-7 minute multimedia video.**
 
-*Submit the file of your project and a URL to your reflection post on Canvas, due April 19th by 11:59PM*
+The goal of this assignment is twofold. First, thematic: you will learn about the interplay between technology and society and its impacts on culture, economy, business, etc. Second, you will develop skills and strategies for both effectively communicating and consuming content through this medium. 
+
+You have wide latitude to choose the topic. You might, for instance, study how camera-equipped drones are being used to shoot Hollywood films or player tracking technology is being incorporated by NBA teams. Your presentation should have a clear message or interpretation about the technology's impact and use concrete, compelling examples to illustrate the change. 
+
+#### In-Class Presentation
+Prior to completing your media project, you will first give a 5-minute presentation to a small group of classmates on **March 6th**. You should make a short slideshow to accompany your presentation. The purpose of this step is to get you to complete your research ahead of time and have some practice in how to convey your findings to a broader audience.
+
+*In-class Presentation will take place on March 6th*
+
+#### Video File
+The final product is a 5-7 minute multimedia video that includes the following elements:
+
+- Voiceover narration of your topic. This can be recorded in Zoom or Audacity.
+- Additional audio (music, sound effects, etc.)
+- Still images, photographs, charts, etc. illustrating your narration
+- Video illustrating your narration (this can be a Zoom recording of yourself talking or other video clips)
+
+#### Wordpress Page
+You also need to make a page on your personal website:
+
+- Title it "Media Project"
+- 2-3 paragraphs giving a short overview of the topic you chose and documenting your process (how you approached it, challenges you ran into, strategies you used, etc.). 
+- Embedded video of your media project
+- List of sources you consulted
+
+---- 
+
+*Upload the multimedia video file AND a URL of your webpage to Canvas by March 17th at 11:59PM*
