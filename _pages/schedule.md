@@ -88,6 +88,7 @@ classes: narrow
 - Perusall:
 	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022)
 	- [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography in presentations.
+	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
 
 [comment]: # (HIST 5260 / COMM 5081 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
@@ -97,12 +98,12 @@ classes: narrow
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
-- Adobe Illustrator tutorial
+- Complete Adobe Illustrator tutorial (TBD)
 -  Perusall:
   - Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).
-	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
 
 - In Class:
+	- Class visit from CU Denver graduates
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 [comment]: # (Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019))
@@ -118,14 +119,14 @@ classes: narrow
 - Install Adobe Premiere Pro from your Adobe Creative Cloud account
 - Perusall:
 	- First half (first 30:30) of Kevin Roose and Casey Newton, ["TikTok’s Spying Scandal and ChatGPT’s Challenge to Google"](https://www.nytimes.com/2023/01/06/podcasts/hard-fork-tiktok-microsoft-chatgpt.html) *Hard Fork* podcast, January 6, 2023. [Transcript](https://www.nytimes.com/2023/01/06/podcasts/hard-fork-tiktok-microsoft-chatgpt.html)
-  - HIST majors only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
-  - COMM majors only: Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
+  - HIST only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
+  - COMM only: Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
 - In Class:
 	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
 
 ### Wed., Feb. 22: Video
-- Complete Adobe Premiere Tutorial
+- Complete Adobe Premiere Tutorial (TBD)
 - Record a video in which you make a **30-second elevator pitch** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out and you can be as silly as you want (cat and/or other pet appearances highly encouraged) - just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel** We will be using these during class to learn how to edit videos. 
 
 - In Class:
@@ -157,8 +158,7 @@ classes: narrow
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
 	- Valerie Pennington, ["Making Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video)
-- Prepare a [5-minute presentation with accompanying slides of your media project]({{site.baseurl/assignments/media-project/) to deliver to your classmates in person
-
+- Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project)
 - In Class:
 	- In-class presentations on the topic of your media project
 
@@ -184,7 +184,7 @@ classes: narrow
 	- Class visit from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
 	- [Data structures and recording information in spreadsheets]({{site.baseurl}}/modules/making-data) 
 
-### Wed., Mar. 15: Working With Data
+### Wed., Mar. 15: Processing Data
 - Perusall:
 	- Video (12 min.): ["10 Common Excel Mistakes to Avoid"](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) by Mynda Treacy and skim through the accompanying page for reference. On the #readings channel in Slack post a reaction to this advice: Have you seen these mistakes in the past or done these mistakes yourself? Do you find any of them confusing? Which did you find most helpful?
 - Additional (optional) data and spreadsheet resources:
@@ -192,6 +192,7 @@ classes: narrow
   - Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).
 
 - In Class:
+	- Class visit from [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
 	- Spreadsheet functions
 
 *[Media Project]({{site.baseurl}}/assignments/media-project) due March 16th*
