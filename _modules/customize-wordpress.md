@@ -19,4 +19,4 @@ Choose a Wordpress theme for your personal website:
 - Make sure you've changed the Site Title and Tagline under Settings -> General.
 - Change the Widgets to only include those features you want on your site (Settings->Widgets)
 - Add navigation menus so that your website has a link at the top to your About page. (Go to Appearance -> Menus)
-- Change your "permalinks" options so that the URL for your individual pages only includes the post name: <https://wordpress.org/support/article/settings-permalinks-screen/> 
+- Change your "permalinks" options so that the URL for your individual pages only includes the page name: <https://wordpress.org/support/article/settings-permalinks-screen/> 

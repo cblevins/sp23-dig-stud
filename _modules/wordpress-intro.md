@@ -18,7 +18,7 @@ Once you've had a chance to explore your individual website, compare notes acros
 
 - What are the similarities and differences in terms of content?
 - What are similarities and differences in terms of design and layout?
-- Which one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :)
+- Which one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :smile:
 
 ## Familiarizing Yourself with Wordpress
 
@@ -40,7 +40,7 @@ I'm going to have you go through a few tutorials and then apply what you learned
   -  Go back to the page and add a new block then insert the image of Professor Blevins's ferocious cat from your computer.
   -  Change the Image Dimensions to make the image smaller (use Preview page to adjust it to your liking)
   -  When you're done, click Publish button and then click View Page to see the new page.
-  -  Copy the URL of the page (it should look something like: `https://yourdomainname/sandbox/website/test-page`) and send it over #in-class Slack channel
+  -  Copy the URL of the page (it should look something like: `https://yourdomainname/test-page`) and send it over #in-class Slack channel
 
 ### Installing a New Theme
 
@@ -49,5 +49,5 @@ I'm going to have you go through a few tutorials and then apply what you learned
 
 ### Bonus
 
-If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is [this image of the Denver skyline](https://cblevins.github.io/sp22-dig-stud/modules/denver-skyline.jpg). Try googling to find instructions or tips!
+If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is [this image of the Denver skyline](https://cblevins.github.io/sp23-dig-stud/modules/denver-skyline.jpg). Try googling to find instructions or tips!
 

@@ -53,7 +53,7 @@ classes: narrow
 	- [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial
 
 ### Wed., Feb. 1: Personal Websites
-- [Create a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/modules/reclaim-hosting-sandbox)
+- Make sure you finnished all of the [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial from last class
 - Follow [these instructions]({{site.baseurl}}/modules/install-wordpress) to install a Wordpress site in your Reclaim Hosting server space.
 
 [comment]: # (Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021))
@@ -67,11 +67,14 @@ classes: narrow
 ### Mon., Feb. 6: Personal Websites II
 - Follow [these instructions]({{site.baseurl}}/modules/wordpress-page/) to make a new page that you will use to complete your upcoming [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene)
 - Perusall:
-  - Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [Perusall]
+  - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)]
+  - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
+
+[comment]: # (Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [Perusall])
 
 - In Class:
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
-	- Wordpress Vocab & Themes
+	- Wordpress Vocabulary and Themes
 
 ### Wed., Feb. 8: Personal Websites III
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography. 
