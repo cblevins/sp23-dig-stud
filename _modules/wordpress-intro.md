@@ -1,5 +1,6 @@
 ---
 title: Wordpress Introduction
+toc: true
 ---
 
 Today you will be learning the basics of how to create a website using Wordpress, one of the most popular platforms for building websites. 
@@ -48,6 +49,5 @@ I'm going to have you go through a few tutorials and then apply what you learned
 -  Change the Theme of your Wordpress site to the `OceanWP` theme (install then activate the theme).
 
 ### Bonus
-
 If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is [this image of the Denver skyline](https://cblevins.github.io/sp23-dig-stud/modules/denver-skyline.jpg). Try googling to find instructions or tips!
 

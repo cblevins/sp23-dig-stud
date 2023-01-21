@@ -224,6 +224,7 @@ classes: narrow
 - Watch the first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter? 
 
 - In Class:
+	- Class visit from [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/), graphics designer and developer for the *Washington Post*.
 	- [Data Visualization practice with Tableau Public]({{site.baseurl}}/modules/tableau-public-ii)
 
 [comment]: # (- HIST 5260 / COMM 5081 only: Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) *The New Yorker* (June 21, 2021))
