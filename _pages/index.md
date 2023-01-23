@@ -27,6 +27,6 @@ This course equips students to be effective and responsible users of digital tec
 
 In this class, students will:
 
-- Understand the cultural, social, and ethical dimensions of digital technology withinin modern society 
+- Understand the cultural, social, and ethical dimensions of digital technology within modern society 
 - Develop comfort with learning technical skills across a variety of platforms and software
 - Build a body of knowledge and digital toolkit that advances the individual educational and/or career goals of each student

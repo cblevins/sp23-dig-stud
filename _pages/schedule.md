@@ -28,7 +28,7 @@ classes: narrow
 - Join the class Slack workspace (see Canvas or university email for invitation), customize your profile picture, and write a message introducing yourself in the `#general` channel that includes one image (GIF, meme, picture of your pet - whatever you want!)
 - Sign up for [a free NYTimes student account](https://library.auraria.edu/news/2022/new-year-new-tools-access-new-york-times)
 - Perusall:
-  - Maggie Appleton, ["The Expanding Dark Forest and Generative AI"](https://maggieappleton.com/ai-dark-forest) *maggieappleton.com* (January 1, 2023).
+  - Maggie Appleton, ["The Expanding Dark Forest and Generative AI"](https://maggieappleton.com/ai-dark-forest) *maggieappleton.com* (January 1, 2023). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-expanding-dark-forest-and-generative-ai?assignmentId=fRZ3oYiDhqmsjDALz&part=1)]
 
 - In Class:
 	- What you want to get out of the course, troubleshooting Slack and Perusall
