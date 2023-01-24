@@ -20,7 +20,7 @@ classes: narrow
   - Course Syllabus: questions or clarifications about policies, assignments, etc., reactions to different topics, things you're dreading, things you're excited about, etc.
   - Brian X. Chen, ["The Tech That Will Invade Our Lives in 2023"](https://www.nytimes.com/2022/12/29/technology/personaltech/new-tech-2023-ai-chat-vr.html) *New York Times* (December 29, 2022)
 
-- In Class:
+- In Class ([slides](https://docs.google.com/presentation/d/1rj-XH6Lh3jicrRN-DLsvGhfLcV_0-dzP2kkj7QT_JLc/edit?usp=sharing)):
 	- Introductions to each other and the course
 	- Discussion of current state of tech
 
@@ -30,11 +30,11 @@ classes: narrow
 - Perusall:
   - Maggie Appleton, ["The Expanding Dark Forest and Generative AI"](https://maggieappleton.com/ai-dark-forest) *maggieappleton.com* (January 1, 2023). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-expanding-dark-forest-and-generative-ai?assignmentId=fRZ3oYiDhqmsjDALz&part=1)]
 
-- In Class:
+- In Class (slides):
 	- What you want to get out of the course, troubleshooting Slack and Perusall
 	- Hands-on exploration of ChatGPT and Artificial Intelligence
 
-*If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by 1/27*
+*If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by Fri. 1/27*
 {: .notice--info}
 
 ## Your Digital Identity
@@ -43,23 +43,28 @@ classes: narrow
 - Follow [these instructions]({{site.baseurl}}/modules/reclaim-hosting-registration) to register for a Reclaim Hosting account.
 - Perusall:
 	- Audrey Watters, ["The Web We Need to Give Students"](https://brightthemag.com/the-web-we-need-to-give-students-311d97713713#.baxz2qqib) *BRIGHT Magazine* (July 15, 2015). [[Perusall]](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-web-we-need-to-give-students-giving-students-their-own-digital-or-by-audrey-watters-or-bright-magazine-143799836?assignmentId=WbNqPmEeCLgAPmAXe&part=1)
-	- HIST only: Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019). [[Perusall]](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/digital-history-the-inclusive-historian-s-handbook-258232500?assignmentId=uX8Ff6avxRJQSfhwg&part=1) 
-	- COMM only: Steven Marche, ["The College Essay is Dead"](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/) *The Atlantic* (December 6, 2022). [Perusall]
+	- HIST students only: Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019). [[Perusall]](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/digital-history-the-inclusive-historian-s-handbook-258232500?assignmentId=uX8Ff6avxRJQSfhwg&part=1) 
+	- COMM students only: Emily A. Vogels, Risa Gelles-Watnick and Navid Massarat, ["Teens, Social Media and Technology 2022"](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/) *Pew Research Center* (August 10, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/teens-social-media-and-technology-2022-or-pew-research-center-112354351?assignmentId=envsWW6M5PhqfvB2K&part=1)]
 
-[comment]: # (["Microsoft and the Metaverse"](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?) *The Daily* podcast (January 20, 2022). (25 min.) [[Link to full transcript](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1)].)
+[comment]: # (COMM only: Steven Marche, ["The College Essay is Dead"](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/) *The Atlantic* (December 6, 2022). [Perusall])
 
-- In Class:
+- In Class (slides):
 	- Class visit from [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
 	- [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial
 
 ### Wed., Feb. 1: Personal Websites
 - Make sure you finnished all of the [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial from last class
 - Follow [these instructions]({{site.baseurl}}/modules/install-wordpress) to install a Wordpress site in your Reclaim Hosting server space.
+- Perusall:
+	- Marques Brownlee, ["Who Cares About the Metaverse?"](https://www.youtube.com/watch?v=CqkhjL3WvWQ) *YouTube* (October 28, 2022) (15:50 min). [Perusall]
+
+[comment]: # (["Microsoft and the Metaverse"](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?) *The Daily* podcast (January 20, 2022). (25 min.) [[Link to full transcript](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1)].)
 
 [comment]: # (Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021))
 
-- In Class:
-	- [Wordpress Introduction]({{site.baseurl}}/modules/wordpress-intro)
+- In Class (slides):
+	- Discussion of the virtual reality and the Metaverse
+	- [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro)
 
 *[LinkedIn Profile]({{site.baseurl}}/assignments/career-portfolio) due February 6th*
 {: .notice--info}
@@ -70,9 +75,7 @@ classes: narrow
   - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)]
   - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
 
-[comment]: # (Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [Perusall])
-
-- In Class:
+- In Class (slides):
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
 	- Wordpress Vocabulary and Themes
 
@@ -81,7 +84,7 @@ classes: narrow
 - Follow [these instructions]({{site.baseurl}}/modules/customize-wordpress) to customize and clean up your Wordpress site.
 - Work on your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) 
 
-- In Class:
+- In Class (slides):
 	- Making accessible websites
 	- Peer review of personal websites
 
@@ -98,7 +101,7 @@ classes: narrow
 
 [comment]: # (HIST 5260 / COMM 5081 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
-- In Class:
+- In Class (slides):
 	- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
 	- Discussion of stable diffusion and DALL-E
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
@@ -106,11 +109,13 @@ classes: narrow
 ### Wed., Feb. 15: Images
 - Complete Adobe Illustrator tutorial (TBD)
 -  Perusall:
-  - Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).
+	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [Perusall]
 
-- In Class:
+- In Class (slides):
 	- Class visit from CU Denver graduates
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
+
+[comment]: # (Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).)
 
 [comment]: # (Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019))
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
@@ -128,14 +133,14 @@ classes: narrow
   - HIST only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
   - COMM only: Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
-- In Class:
+- In Class (slides):
 	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
 
 ### Wed., Feb. 22: Video
 - Complete Adobe Premiere Tutorial (TBD)
 - Record a video in which you make a **30-second elevator pitch** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out and you can be as silly as you want (cat and/or other pet appearances highly encouraged) - just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel** We will be using these during class to learn how to edit videos. 
 
-- In Class:
+- In Class (slides):
 	- [Video files and editing]({{site.baseurl}}/modules/video-editing)
  
 ### Mon., Feb. 27: Audio
@@ -149,14 +154,14 @@ classes: narrow
   - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
   - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
 
-- In Class:
+- In Class (slides):
 	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
 
 ### Wed., Mar. 1: Audio
 - Perusall:
 	- Listen to episode [Beyond the Consul: Monterey](https://consolationprize.rrchnm.org/beyond-the-consul-monterey/) from the podcast *Consolation Prize* 
 
-- In Class:
+- In Class (slides):
 	- Class visit from podcast guest (TBD)
 
 [comment]: # (- Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*.)
@@ -165,14 +170,14 @@ classes: narrow
 - Perusall:
 	- Valerie Pennington, ["Making Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video)
 - Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project)
-- In Class:
+- In Class (slides):
 	- In-class presentations on the topic of your media project
 
 ### Wed., Mar. 8: Music
 - Perusall:
 	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). *Note: the author of this article, Spencer Kornhaber, will be joining class to discuss how technology is shaping the music industry.*
 
-- In Class:
+- In Class (slides):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
 	- [Video Files and Editing II]({{site.baseurl}}/modules/video-editing-ii)
 
@@ -186,7 +191,7 @@ classes: narrow
 
 [comment]: # (- Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019))
 
-- In Class:
+- In Class (slides):
 	- Class visit from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
 	- [Data structures and recording information in spreadsheets]({{site.baseurl}}/modules/making-data) 
 
@@ -197,7 +202,7 @@ classes: narrow
   - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
   - Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).
 
-- In Class:
+- In Class (slides):
 	- Class visit from [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
 	- Spreadsheet functions
 
@@ -215,7 +220,7 @@ classes: narrow
   - HIST 5260 only: Claire Lemercier and Claire Zalc, ["History by numbers"](https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger)
   - COMM 5081 only: ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
 
-- In Class:
+- In Class (slides):
 	- Introduction to Tableau Public
 
 ### Wed., Mar. 29: Visualizing Data: Charts
@@ -223,7 +228,7 @@ classes: narrow
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240.
 - Watch the first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter? 
 
-- In Class:
+- In Class (slides):
 	- Class visit from [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/), graphics designer and developer for the *Washington Post*.
 	- [Data Visualization practice with Tableau Public]({{site.baseurl}}/modules/tableau-public-ii)
 
@@ -239,7 +244,7 @@ classes: narrow
 
 [comment]: # (- Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.)
  
-- In Class:
+- In Class (slides):
 	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
 	- Making maps in Tableau Public
 
@@ -247,7 +252,7 @@ classes: narrow
 - Perusall:
 	- Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017).
  
-- In Class:
+- In Class (slides):
 	- [Tableau Public practice]({{site.baseurl}}/modules/tableau-public)
 
 *[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due April 9th*
@@ -258,7 +263,7 @@ classes: narrow
 - Perusall:
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
-- In Class:
+- In Class (slides):
 	- Class visit from librarian/archivist (TBD)
 	- Working with Metadata
 
@@ -269,7 +274,7 @@ classes: narrow
 
 [comment]: # (Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.)
 
-- In Class:
+- In Class (slides):
 	- [Digital Collections in Omeka]({{site.baseurl}}/modules/omeka)
 
 ## Wrapping Up
@@ -295,7 +300,7 @@ classes: narrow
 ### Wed., Apr. 26: Your Website Portfolio
 - No reading - work on your final project
 
-- In Class:
+- In Class (slides):
 	- Workshop on finalizing your personal website to use as a professional portfolio (part of [Career Portfolio](({{site.baseurl}}/assignments/career-portfolio)) assignment)
 
 ### Mon., May. 1: Final Project Presentations
