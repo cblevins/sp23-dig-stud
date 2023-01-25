@@ -32,7 +32,7 @@ classes: narrow
 
 - In Class (slides):
 	- [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/) and student goals for the course
-	- Practice using Slack and Perusall
+	- [Practice using Slack]({{site.baseurl}}/modules/slack-practice/) 
 	- Hands-on exploration of ChatGPT and Artificial Intelligence
 
 *If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by Fri. 1/27*
