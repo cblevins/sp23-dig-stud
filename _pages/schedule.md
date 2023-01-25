@@ -33,7 +33,7 @@ classes: narrow
 - In Class (slides):
 	- [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/) and student goals for the course
 	- [Practice using Slack]({{site.baseurl}}/modules/slack-practice/) 
-	- Hands-on exploration of ChatGPT and Artificial Intelligence
+	- ChatGPT and Generative AI ([Google Doc](https://docs.google.com/document/d/1lAEcUFtt374BoBbwk_7JezFxOmS83qjyRCumpWGqHBc/edit?usp=sharing))
 
 *If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by Fri. 1/27*
 {: .notice--info}
@@ -54,7 +54,7 @@ classes: narrow
 	- [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial
 
 ### Wed., Feb. 1: Personal Websites
-- Make sure you finnished all of the [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial from last class
+- Make sure you finished all of the [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial from last class
 - Follow [these instructions]({{site.baseurl}}/modules/install-wordpress) to install a Wordpress site in your Reclaim Hosting server space.
 - Perusall:
 	- Marques Brownlee, ["Who Cares About the Metaverse?"](https://www.youtube.com/watch?v=CqkhjL3WvWQ) *YouTube* (October 28, 2022) (15:50 min). [Perusall]
