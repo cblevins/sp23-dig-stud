@@ -31,7 +31,8 @@ classes: narrow
   - Maggie Appleton, ["The Expanding Dark Forest and Generative AI"](https://maggieappleton.com/ai-dark-forest) *maggieappleton.com* (January 1, 2023). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-expanding-dark-forest-and-generative-ai?assignmentId=fRZ3oYiDhqmsjDALz&part=1)]
 
 - In Class (slides):
-	- What you want to get out of the course, troubleshooting Slack and Perusall
+	- [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/) and student goals for the course
+	- Practice using Slack and Perusall
 	- Hands-on exploration of ChatGPT and Artificial Intelligence
 
 *If you haven't done so already, complete the introductory [student survey](https://forms.gle/aHeusTqHNna1nFTy6) by Fri. 1/27*
