@@ -113,7 +113,6 @@ classes: narrow
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [Perusall]
 
 - In Class (slides):
-	- Class visit from CU Denver graduates
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 [comment]: # (Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).)
@@ -135,6 +134,7 @@ classes: narrow
   - COMM only: Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
 - In Class (slides):
+	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major)
 	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
 
 ### Wed., Feb. 22: Video
