@@ -57,7 +57,7 @@ classes: narrow
 - Make sure you finished all of the [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial from last class
 - Follow [these instructions]({{site.baseurl}}/modules/install-wordpress) to install a Wordpress site in your Reclaim Hosting server space.
 - Perusall:
-	- Marques Brownlee, ["Who Cares About the Metaverse?"](https://www.youtube.com/watch?v=CqkhjL3WvWQ) *YouTube* (October 28, 2022) (15:50 min). [Perusall]
+	- Marques Brownlee, ["Who Cares About the Metaverse?"](https://www.youtube.com/watch?v=CqkhjL3WvWQ) *YouTube* (October 28, 2022) (15:50 min). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/who-cares-about-the-metaverse?assignmentId=aXFTyHynytxNqcWAh&part=1)]
 
 [comment]: # (["Microsoft and the Metaverse"](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?) *The Daily* podcast (January 20, 2022). (25 min.) [[Link to full transcript](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1)].)
 
