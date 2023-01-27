@@ -64,7 +64,7 @@ classes: narrow
 [comment]: # (Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021))
 
 - In Class (slides):
-	- Discussion of the virtual reality and the Metaverse
+	- Discussion of virtual reality and the Metaverse
 	- [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro)
 
 *[LinkedIn Profile]({{site.baseurl}}/assignments/career-portfolio) due February 6th*

@@ -13,8 +13,6 @@ Choose a Wordpress theme for your personal website:
 
 ### Clean up Your Site
 
-- Make sure you have an About page describing yourself
-- Set the About page to be your home page (what the user sees when they go to your main webpage URL): <https://wordpress.org/support/article/creating-a-static-front-page/> 
 - Delete any pages that came with your site or Theme that you did not create - ex. "Sample Page" etc.
 - Make sure you've changed the Site Title and Tagline under Settings -> General.
 - Change the Widgets to only include those features you want on your site (Settings->Widgets)
