@@ -19,11 +19,13 @@ Complete the following checklist, taking notes on what you've found:
 - Choose **five websites** that you regularly log into using a username and password, making sure to include at least one site that contains sensitive information like a bank or credit card account. With pen and paper, write down the login information for each of them (username and password). Is there any overlap in the passwords you use? Next, check each of the passwords using the [Password Strength Check](https://www.uic.edu/apps/strong-password/). How secure are they? Finally, come up with a plan for how you want to handle your passwords. Consider using a [password manager](https://www.nytimes.com/wirecutter/reviews/best-password-managers/), which allows you to automatically generate separate random passwords for each website you have to log into and then keep those passwords in a single, secure repository that can automatically fill them in for you so you don't need to type or remember them. Or, if you don't want to do that, write your passwords on a single, handwritten list and update all of your passwords so that there is: a) no overlap between sites and b) uses strong passwords.
 
 #### Written Reflection
-- In your Wordpress site, write a roughly 800-1,000 word post that summarizes the state of your own personal digital hygiene and reflects on the larger issue of personal privacy in a digital age. 
-- The goal of this post is to write something coherent that is **tailored for online reading**. It should not read like a traditional 5 page college essay, nor should it be a jumbled list of observations. You want to weave together elements of your own personal experience with larger thoughts, so be selective about what examples you want to focus on and how they tie together. Think about tone, style, and formatting.
-- As part of your post, please **include at least two non-text elements (an image, GIF, video, etc.)** driving home your points, with proper attribution.
+- In your Wordpress site, write a roughly 600-800 word page that summarizes the state of your own personal digital hygiene and reflects on the larger issue of personal privacy in a digital age. 
 - Some questions to consider: 
 	- What did you learn from each part of the exercise? 
-	- Did you end up having to make any changes? More broadly, what is the responsibility of individuals vs. regulators vs. private companies to protect privacy? 
+	- Did you end up having to make any changes? 
+	- More broadly, what is the responsibility of individuals vs. regulators vs. private companies to protect privacy? 
+- The goal of this post is to write something coherent that is **tailored for online reading**. It should not read like a traditional college essay and it shouldn't be a jumbled list of observations. 
+- As part of your post, please **include at least two non-text elements (an image, GIF, video, etc.)** driving home your points, with proper attribution.
+- You want to weave together elements of your own personal experience with larger thoughts, so be selective about what examples you want to focus on and how they tie together. Think about tone, style, and formatting - use some of the readings you've had for this class as models.
 
 *Submit a URL of your reflection to Canvas by 11:59PM on February 12th*
