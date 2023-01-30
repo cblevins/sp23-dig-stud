@@ -49,11 +49,11 @@ classes: narrow
 
 [comment]: # (COMM only: Steven Marche, ["The College Essay is Dead"](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/) *The Atlantic* (December 6, 2022). [Perusall])
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1mudQSQpQrGk6cc_PnBGs8uC-FAkIBXVRSY254CQ9GBw/edit?usp=sharing)):
 	- Class visit from [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
 	- [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial
 
-### Wed., Feb. 1: Personal Websites
+### Wed., Feb. 1: Personal Websites I
 - Make sure you finished all of the [Files and Folders]({{site.baseurl}}/modules/files-folders) tutorial from last class
 - Follow [these instructions]({{site.baseurl}}/modules/install-wordpress) to install a Wordpress site in your Reclaim Hosting server space.
 - Perusall:

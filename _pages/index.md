@@ -13,7 +13,8 @@ University of Colorado Denver, Spring 2023<br>
 M/W 2:00-3:15pm, North Classroom 1608<br>
 Office Hours: W. 3:30-4:30pm (in person or <a href="https://ucdenver.zoom.us/j/94563999551">over Zoom</a>)<br>
 Office: Student Commons 3108<br>
-TA: Whitney Roberts (whitney.roberts@ucdenver.edu)
+TA: Whitney Roberts (whitney.roberts@ucdenver.edu)<Br>
+TA Office Hours: M. 12:30-1:30pm (Library Cafe or <a href="https://us04web.zoom.us/j/77206615787?pwd=29B6apXJkWLqo1aw8uvNaaolggQb33.1">over Zoom</a>)
 </p>
 </div>
 
