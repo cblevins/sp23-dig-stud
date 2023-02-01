@@ -65,20 +65,20 @@ classes: narrow
 
 - In Class (slides):
 	- Discussion of virtual reality and the Metaverse
-	- [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro)
+	- [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro) tutorial
 
 *[LinkedIn Profile]({{site.baseurl}}/assignments/career-portfolio) due February 6th*
 {: .notice--info}
 
 ### Mon., Feb. 6: Personal Websites II
-- Follow [these instructions]({{site.baseurl}}/modules/wordpress-page/) to make a new page that you will use to complete your upcoming [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene)
+- Finish the [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro) tutorial so that you have your basic Wordpress site up and running.
 - Perusall:
-  - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)]
+  - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)] :rotating_light: *Note: this reading discusses issues of mental health, including self-harm*
   - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
 
 - In Class (slides):
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
-	- Wordpress Vocabulary and Themes
+	- Customizing your Wordpress site
 
 ### Wed., Feb. 8: Personal Websites III
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography. 
