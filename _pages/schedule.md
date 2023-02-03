@@ -63,7 +63,7 @@ classes: narrow
 
 [comment]: # (Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021))
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1_Cp_cOz6fF-LbyhEXiedi8RqNuXWGC2TgGNKcwsLW0Q/edit?usp=sharing)):
 	- Discussion of virtual reality and the Metaverse
 	- [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro) tutorial
 
@@ -71,9 +71,9 @@ classes: narrow
 {: .notice--info}
 
 ### Mon., Feb. 6: Personal Websites II
-- Finish the [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro) tutorial so that you have your basic Wordpress site up and running.
+- Finish the [Introduction to Wordpress]({{site.baseurl}}/modules/wordpress-intro) tutorial so that you have your basic Wordpress site up and running (note: we will cover the last section "Using sub-menus" in class)
 - Perusall:
-  - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)] :rotating_light: *Note: this reading discusses issues of mental health, including self-harm*
+  - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)] :rotating_light: *Note: this reading discusses issues of mental health, including self-harm* :rotating_light: 
   - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
 
 - In Class (slides):
@@ -104,7 +104,6 @@ classes: narrow
 
 - In Class (slides):
 	- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
-	- Discussion of stable diffusion and DALL-E
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
@@ -113,6 +112,7 @@ classes: narrow
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [Perusall]
 
 - In Class (slides):
+	- Discussion of stable diffusion and DALL-E
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 [comment]: # (Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).)
@@ -134,7 +134,7 @@ classes: narrow
   - COMM only: Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
 - In Class (slides):
-	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major)
+	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major!)
 	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
 
 ### Wed., Feb. 22: Video
