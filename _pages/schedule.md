@@ -81,8 +81,7 @@ classes: narrow
 	- Customizing your Wordpress site
 
 ### Wed., Feb. 8: Personal Websites III
-- Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography. 
-- Follow [these instructions]({{site.baseurl}}/modules/customize-wordpress) to customize and clean up your Wordpress site.
+- Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography.
 - Work on your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) 
 
 - In Class (slides):
@@ -97,22 +96,24 @@ classes: narrow
 ### Mon., Feb. 13: Images
 - Sign up for Adobe Creative Cloud using your CU Denver student login credentials ([instructions here](https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/adobe-creative-cloud/adobe-cc-for-students)) and then install Adobe Illustrator on your computer.
 - Perusall:
-	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022) [Perusall]
+	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/a-coming-out-party-for-generative-a-i-silicon-valley-s-new-craze-the-new-york-times?assignmentId=CcijCZBPrTNnJyJDH&part=1)]
+	- Tom Hartsfield, "How do DALL-E, Midjourney, Stable Diffusion, and other forms of generative AI work?" *Big Think* (September 22, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/how-do-dall-e-and-other-forms-of-generative-ai-work_-big-think?assignmentId=nERZS99xXfN2KntLr&part=1)]
 	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020). [Perusall]
 
 [comment]: # (HIST 5260 / COMM 5081 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
 - In Class (slides):
 	- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
+	- Discussion of generative AI for images
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
 - Complete Adobe Illustrator tutorial (TBD)
 -  Perusall:
-	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [Perusall]
+	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
 
 - In Class (slides):
-	- Discussion of stable diffusion and DALL-E
+	- Discussion of generative AI for images
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
 [comment]: # (Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).)
