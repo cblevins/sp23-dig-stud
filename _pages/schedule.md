@@ -30,7 +30,7 @@ classes: narrow
 - Perusall:
   - Maggie Appleton, ["The Expanding Dark Forest and Generative AI"](https://maggieappleton.com/ai-dark-forest) *maggieappleton.com* (January 1, 2023). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-expanding-dark-forest-and-generative-ai?assignmentId=fRZ3oYiDhqmsjDALz&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1GKS6ks04Pt73J9K7qwSqSxjGD7fvD2HmXQxQshcNG5I/edit?usp=sharing)):
 	- [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/) and student goals for the course
 	- [Practice using Slack]({{site.baseurl}}/modules/slack-practice/) 
 	- ChatGPT and Generative AI ([Google Doc](https://docs.google.com/document/d/1lAEcUFtt374BoBbwk_7JezFxOmS83qjyRCumpWGqHBc/edit?usp=sharing))
@@ -76,13 +76,14 @@ classes: narrow
   - Jonathan Haidt, ["The Dangerous Experiment on Teen Girls,"](https://www.theatlantic.com/ideas/archive/2021/11/facebooks-dangerous-experiment-teen-girls/620767/) *The Atlantic* (November 21, 2021) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/facebook-s-dangerous-experiment-on-teen-girls-the-atlantic-13963406?assignmentId=EhWGub9YPcH3RdwcY&part=1)] :rotating_light: *Note: this reading discusses issues of mental health, including self-harm* :rotating_light: 
   - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1Osdfr_odYYb8QQvfia8i9OgJVOCVb8-aqX6Drj8HPFY/edit?usp=sharing)):
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
-	- Customizing your Wordpress site
+	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-intro)
 
 ### Wed., Feb. 8: Personal Websites III
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography.
 - Work on your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) 
+- Select a Wordpress theme for your site and make adjustments to layout, style, etc.
 
 - In Class (slides):
 	- Making accessible websites
