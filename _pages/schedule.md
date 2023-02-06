@@ -77,16 +77,15 @@ classes: narrow
   - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
 
 - In Class ([slides](https://docs.google.com/presentation/d/1Osdfr_odYYb8QQvfia8i9OgJVOCVb8-aqX6Drj8HPFY/edit?usp=sharing)):
-	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
-	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)
+	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon (postponed)
+	- ~~[Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)~~
 
 ### Wed., Feb. 8: Personal Websites III
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography.
-- Select a Wordpress theme for your site - feel free to choose the default or one of the two we looked at in the [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes) tutorial) - and clean up/customize the site.
-- Work on your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) 
+- Complete the "Privacy and Security Checklist" portion of your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) assignment and be sure to take notes so you can complete your reflection.
 
 - In Class (slides):
-	- Making accessible websites
+	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)
 	- Peer review of personal websites
 
 *[Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) due February 12th*
