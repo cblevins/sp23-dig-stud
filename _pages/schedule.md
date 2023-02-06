@@ -78,12 +78,12 @@ classes: narrow
 
 - In Class ([slides](https://docs.google.com/presentation/d/1Osdfr_odYYb8QQvfia8i9OgJVOCVb8-aqX6Drj8HPFY/edit?usp=sharing)):
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
-	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-intro)
+	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)
 
 ### Wed., Feb. 8: Personal Websites III
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography.
+- Select a Wordpress theme for your site - feel free to choose the default or one of the two we looked at in the [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes) tutorial) - and clean up/customize the site.
 - Work on your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) 
-- Select a Wordpress theme for your site and make adjustments to layout, style, etc.
 
 - In Class (slides):
 	- Making accessible websites
