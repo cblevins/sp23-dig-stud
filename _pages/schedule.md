@@ -77,8 +77,7 @@ classes: narrow
   - HIST 5260 / COMM 5081 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/google-and-facebook-didn-t-end-data-privacy-the-atlantic-357439546?assignmentId=3QSkJjzhrsJn6xT2k&part=1)]
 
 - In Class ([slides](https://docs.google.com/presentation/d/1Osdfr_odYYb8QQvfia8i9OgJVOCVb8-aqX6Drj8HPFY/edit?usp=sharing)):
-	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon (postponed)
-	- ~~[Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)~~
+	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)
 
 ### Wed., Feb. 8: Personal Websites III
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography.
@@ -113,6 +112,7 @@ classes: narrow
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
 
 - In Class (slides):
+	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
 	- Discussion of generative AI for images
 	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
 
