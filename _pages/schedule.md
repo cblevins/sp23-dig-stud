@@ -97,24 +97,24 @@ classes: narrow
 - Perusall:
 	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/a-coming-out-party-for-generative-a-i-silicon-valley-s-new-craze-the-new-york-times?assignmentId=CcijCZBPrTNnJyJDH&part=1)]
 	- Tom Hartsfield, "How do DALL-E, Midjourney, Stable Diffusion, and other forms of generative AI work?" *Big Think* (September 22, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/how-do-dall-e-and-other-forms-of-generative-ai-work_-big-think?assignmentId=nERZS99xXfN2KntLr&part=1)]
-	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020). [Perusall]
+	- HIST 5260 / COMM 5081: Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/what-s-in-a-face-gender-representation-of-faces-in-time-1940s-1990s?assignmentId=ZgwGzWNYjT7ZcwLvt&part=1)]
 
 [comment]: # (HIST 5260 / COMM 5081 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
 - In Class (slides):
 	- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
 	- Discussion of generative AI for images
-	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
+	- [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
-- Complete Adobe Illustrator tutorial (TBD)
+- Complete the tutorials section of [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii).
 -  Perusall:
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
 
 - In Class (slides):
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
 	- Discussion of generative AI for images
-	- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/modules/graphic-design)
+	- [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii)
 
 [comment]: # (Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).)
 
@@ -136,6 +136,7 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major!)
+	- Anna presentation
 	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
 
 ### Wed., Feb. 22: Video
@@ -143,6 +144,7 @@ classes: narrow
 - Record a video in which you make a **30-second elevator pitch** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out and you can be as silly as you want (cat and/or other pet appearances highly encouraged) - just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel** We will be using these during class to learn how to edit videos. 
 
 - In Class (slides):
+	- Unique presentation
 	- [Video files and editing]({{site.baseurl}}/modules/video-editing)
  
 ### Mon., Feb. 27: Audio
@@ -157,6 +159,7 @@ classes: narrow
   - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
 
 - In Class (slides):
+	- Sophie presentation
 	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
 
 ### Wed., Mar. 1: Audio
@@ -165,6 +168,7 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from podcast guest (TBD)
+	- Quinn presentation
 
 [comment]: # (- Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*.)
 
@@ -181,6 +185,7 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
+	- Avigail presentation
 	- [Video Files and Editing II]({{site.baseurl}}/modules/video-editing-ii)
 
 ## Working With Data
