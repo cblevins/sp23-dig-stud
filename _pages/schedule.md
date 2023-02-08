@@ -83,7 +83,7 @@ classes: narrow
 - Read this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989) by [@iamscicomm](https://twitter.com/iamscicomm) on fonts and typography.
 - Complete the "Privacy and Security Checklist" portion of your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) assignment and be sure to take notes so you can complete your reflection.
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1U3ohkE1jnhnr0cr68ISv66kabvpfMIr6j1GIo9g7hzE/edit?usp=sharing)):
 	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes) and [peer peview]({{site.baseurl}}/modules/wordpress-themes#peer-review) of personal websites
 
 *[Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) due February 12th*
