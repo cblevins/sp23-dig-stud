@@ -84,8 +84,7 @@ classes: narrow
 - Complete the "Privacy and Security Checklist" portion of your [Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) assignment and be sure to take notes so you can complete your reflection.
 
 - In Class (slides):
-	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes)
-	- Peer review of personal websites
+	- [Wordpress Themes]({{site.baseurl}}/modules/wordpress-themes) and [peer peview]({{site.baseurl}}/modules/wordpress-themes#peer-review) of personal websites
 
 *[Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) due February 12th*
 {: .notice--info}

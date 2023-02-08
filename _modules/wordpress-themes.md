@@ -38,9 +38,23 @@ Wordpress offers a variety of themes that have been built by web developers. A t
 
 - Regardless of which theme you activated, you're going to spend today trying to customize the theme to fit your own needs for a personal website. 
 - To edit the theme, click Appearance -> Theme - Editor 
-- Each of you are then going to try and complete the following using the Full Site Editor:
-	- Delete at least **two pieces of pre-loaded content** that came with the new theme from your site's landing page
-	- Change part of the default text that is now loaded on your landing page so it displays **your name and some information about yourself**
-	- Change the **Navigation** links that come with your theme to the following:		- A link to your `About` Page
+- Each of you are then going to try and complete the following using the `Full Site Editor` - note: if you get stuck or can't figure out how to do one of them, *ask your partner(s) for help!*
+	- Delete at least **2-3 pieces of pre-loaded content** that came with the new theme for your site's landing page.
+	- Change part of the default text that is now loaded on your landing page so it displays **your name and some information about yourself.**
+	- Change the **Navigation** links that come with your theme to the following:
+		- A link to your `About` Page
 		- A sub-menu that says `Digital Studies Assignments` 
 		- A link to your `Digital Hygiene` page that appears as a drop-down item under `Digital Studies Assignenents`
+
+## Peer Review
+
+- Once you've both finished customizing either the **Bjork** or **Riverbank** theme, send a link to your website to them over Slack DM.
+- Take a few minutes to review your partner(s) website.
+- Which theme do you prefer?
+- What design features **work well** for each of these themes?
+- Which design features **don't work well** for each of these themes?
+- Give feedback and advice to your partner(s) on things they could improve about their website.
+
+## Bonus: Bad Typography
+
+If you finish early, make a new page in Wordpress. Your goal is to make a page that **intentionally goes against as many of the suggestions on font/typography** that you read for today in this [Twitter thread](https://twitter.com/iamscicomm/status/1531766604626857989). Post a link to the page in the `#in-class` Slack channel.
