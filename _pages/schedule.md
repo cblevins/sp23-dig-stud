@@ -105,7 +105,6 @@ classes: narrow
 	- [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
-- Complete remainder of [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design)
 - Complete the tutorials section of [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii).
 - Perusall:
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
