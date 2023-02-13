@@ -100,14 +100,14 @@ classes: narrow
 
 [comment]: # (HIST 5260 / COMM 5081 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
-- In Class (slides):
-	- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
-	- Discussion of generative AI for images
+- In Class ([slides](https://docs.google.com/presentation/d/15hXEMvsehi1JDwsmNJ-SK0pXKUYBFJjmnBIy4TxY_qs/edit?usp=sharing)):
+	- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab)
 	- [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
+- Complete remainder of [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design)
 - Complete the tutorials section of [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii).
--  Perusall:
+- Perusall:
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
 
 - In Class (slides):
