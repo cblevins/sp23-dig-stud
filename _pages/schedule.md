@@ -92,7 +92,9 @@ classes: narrow
 ## Working With Media
 
 ### Mon., Feb. 13: Images
-- Sign up for Adobe Creative Cloud using your CU Denver student login credentials ([instructions here](https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/adobe-creative-cloud/adobe-cc-for-students)) and then install Adobe Illustrator on your computer.
+- Sign up for Adobe Creative Cloud using your CU Denver student login credentials ([instructions here](https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/adobe-creative-cloud/adobe-cc-for-students))
+- [Install Adobe Illustrator on your computer](https://helpx.adobe.com/download-install/using/download-creative-cloud-apps.html).
+- Bring a laptop charger to class! 
 - Perusall:
 	- Kevin Roose, ["A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze"](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) *New York Times* (October 22, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/a-coming-out-party-for-generative-a-i-silicon-valley-s-new-craze-the-new-york-times?assignmentId=CcijCZBPrTNnJyJDH&part=1)]
 	- Tom Hartsfield, ["How do DALL-E, Midjourney, Stable Diffusion, and other forms of generative AI work?"](https://bigthink.com/the-future/dall-e-midjourney-stable-diffusion-models-generative-ai/) *Big Think* (September 22, 2022) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/how-do-dall-e-and-other-forms-of-generative-ai-work_-big-think?assignmentId=nERZS99xXfN2KntLr&part=1)]
@@ -105,7 +107,10 @@ classes: narrow
 	- [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design)
 
 ### Wed., Feb. 15: Images
-- Finish the sections labeled "tutorials" in [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design) and complete the two tutorials at the beginning of: [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii).
+- Finish up the in-app tutorials section of [Graphic Design with Adobe Illustrator I]({{site.baseurl}}/modules/graphic-design) and complete the two tutorials at the beginning of: [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii):
+	1. [Get to know Illustrator](https://helpx.adobe.com/illustrator/how-to/ai-basics-fundamentals.html) (17 min.)
+	2. [Transform and edit artwork](https://helpx.adobe.com/illustrator/how-to/edit-artwork-basics.html) (19 min.)
+- Bring a laptop charger to class! 
 - Perusall:
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
 

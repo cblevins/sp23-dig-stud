@@ -17,6 +17,8 @@ Today you will be learning the basics of Adobe Illustrator. This introductory vi
 
 ## Create a Course Flyer
 
+*Note for Spring 2023: below material has been moved to Graphic Design with Adobe Illustrator II*
+
 To put your new skills into practice, you're going to design a basic flyer for this class. 
 
 - Navigate on your computer to your `intro-digital-studies` folder you created in the [Files and Folders]({{site.baseurl}}modules/files-folders/) tutorial earlier in the semester. If you haven't done so already, create a `tutorials` folder inside this folder.
