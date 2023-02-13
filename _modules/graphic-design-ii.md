@@ -17,11 +17,15 @@ You're going to complete two tutorials to help familiarize yourself with Illustr
 
 ## Create a Course Flyer
 
+### Get your Raw Material
+
 To put your new skills into practice, you're going to design a basic flyer for this class. 
 
 - Navigate on your computer to your `intro-digital-studies` folder you created in the [Files and Folders]({{site.baseurl}}modules/files-folders/) tutorial earlier in the semester. If you haven't done so already, create a `tutorials` folder inside this folder.
 - Make a new folder inside your `tutorials` folder named `graphic-design`
 - Download the following Adobe Illustrator file and put it inside your new `graphic-design` folder: [course-flyer.ai]({{site.baseurl}}/modules/course-flyer.ai).
+
+### Modify the Course Flyer
 
 Open `course-flyer.ai` in Illustrator and complete the following:
 
@@ -29,8 +33,26 @@ Open `course-flyer.ai` in Illustrator and complete the following:
 * Add text for the course title, meeting place, and meeting time (get this from the course website) onto the white background and change the color and font to something *other* than the default.
 * Change the text size so the course title is the largest piece of text
 * Add text objects listing some of the skills you've learned in the class so far and place this text on top of the black part of the background
-* Move and resize the CU icon so that it is anchored to the bottom left corner
+* Move and resize the CU icon so that it is anchored to the bottom left corner of the flyer
 
-Use
-* **Bonus**: see if you can figure out how to download and add [this vector image](https://www.vecteezy.com/vector-art/165951-free-linear-electronics-and-digital-devices) to the course flyer.
+### Add Other Images
+
+* You're now going to try and add several new images into your flyer consisting of icons of software we've used or will use in this class.
+* Download the following vector images to your `graphic-design` folder (you can right-click -> Save As...): 
+	* [Adobe Illustrator Icon](https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg)
+	* [Adobe Premiere Icon](https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg)
+	* [Wordpress Icon](https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg)
+* Use `File` -> `Place` to locate and add each of the three files you downloaded (they should all end in .svg) 
+* Resize the three icons and move them around so that they're scattered across your flyer
+
+### Export your Flyer
+
+- Your `course-flyer.ai` file allows you to edit the flyer in Adobe Illustrator. But unless someone else also has Illustrator installed, they're not going to be able to open it.
+- Export the entire flyer as a .png file:
+	- File -> Export -> Export As...
+	- Choose PNG from `Format` dropdown 
+	- Check `Use Artboards`
+	- Name it `course-flyer.png`
+	- Export it to your `graphic-design` folder
+- Post your completed course flyer poster in PNG format to the #in-class Slack channel
 

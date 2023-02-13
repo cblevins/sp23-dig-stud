@@ -31,5 +31,5 @@ Open `course-flyer.ai` in Illustrator and complete the following:
 * Add text for the course title, meeting place, and meeting time (get this from the course website) onto the white background and change the color and font to something *other* than the default.
 * Change the text size so the course title is the largest piece of text
 * Add text objects listing some of the skills you've learned in the class so far and place this text on top of the black part of the background
-* Move and resize the CU icon so that it is anchored to the bottom left corner
+* Move and resize the CU icon so that it is anchored to the bottom left corner of the flyer
 * **Bonus**: see if you can figure out how to download and add [this vector image](https://www.vecteezy.com/vector-art/165951-free-linear-electronics-and-digital-devices) to the course flyer.
