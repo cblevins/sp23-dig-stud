@@ -30,3 +30,4 @@ Open `course-flyer.ai` in Illustrator and complete the following:
 * Change the text size so the course title is the largest piece of text
 * Add text objects listing some of the skills you've learned in the class so far and place this text on top of the black part of the background
 * Move and resize the CU icon so that it is anchored to the bottom left corner
+* **Bonus**: find a relevant image online, download it to your computer, and add it to the course flyer. Try and find a high-resolution image that goes with the layout.
