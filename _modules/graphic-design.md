@@ -1,4 +1,4 @@
----
+-
 title: Graphic Design with Adobe Illustrator I
 ---
 
@@ -10,6 +10,7 @@ Today you will be learning the basics of Adobe Illustrator. This introductory vi
 
 - Open Illustrator then navigate to `Help` -> `Illustrator Help` (this should pull up the `Discover` window). 
 - Go to `Hands-on tutorials` -> `Orientation` and go through the following tutorials:
+	- Discover How Illustrator Art is Unique
 	- Take a Tour of the App
 	- Jump into color
 	- Get started with Text
