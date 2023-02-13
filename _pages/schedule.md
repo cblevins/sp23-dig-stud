@@ -259,6 +259,7 @@ classes: narrow
 	- Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017).
  
 - In Class (slides):
+	- Sophia presentation
 	- [Tableau Public practice]({{site.baseurl}}/modules/tableau-public)
 
 *[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due April 9th*
@@ -270,7 +271,7 @@ classes: narrow
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 - In Class (slides):
-	- Class visit from librarian/archivist (TBD)
+	- Class visit from [Nickoal Eichmann-Kalwara](https://nickoal.com/), Digital Scholarship Librarian at the University of Colorado Boulder.
 	- Working with Metadata
 
 ### Wed., Apr. 12: Accessing Data
