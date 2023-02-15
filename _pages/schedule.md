@@ -114,7 +114,7 @@ classes: narrow
 - Perusall:
 	- Pranav Dixit, ["Meet The Three Artists Behind A Landmark Lawsuit Against AI Art Generators"](https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney) *BuzzFeed News* (January 20, 2023) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/meet-the-trio-of-artists-suing-ai-image-generators-649137201?assignmentId=S9h2ZaGWQJZb84nq5&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/14it5UMXTKN_p3tNjXoyolRbvskicKwnilkHLBz-j6W8/edit?usp=sharing)):
 	- Class visit from [Allison Royster](https://www.linkedin.com/in/allisonroyster/), Product Marketing Manager at Epsilon
 	- Discussion of generative AI for images
 	- [Graphic Design with Adobe Illustrator II]({{site.baseurl}}/modules/graphic-design-ii)
