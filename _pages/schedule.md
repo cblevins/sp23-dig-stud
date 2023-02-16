@@ -131,11 +131,12 @@ classes: narrow
 {: .notice--info}
 
 ### Mon., Feb. 20: Video
-- Install Adobe Premiere Pro from your Adobe Creative Cloud account
+- Install Adobe Premiere Pro from your Adobe Creative Cloud account and make sure you can open it on your laptop.
+- Bring headphones to class that can connect to your laptop.
 - Perusall:
-	- First half (first 30:30) of Kevin Roose and Casey Newton, ["TikTok’s Spying Scandal and ChatGPT’s Challenge to Google"](https://www.nytimes.com/2023/01/06/podcasts/hard-fork-tiktok-microsoft-chatgpt.html) *Hard Fork* podcast, January 6, 2023. [Transcript](https://www.nytimes.com/2023/01/06/podcasts/hard-fork-tiktok-microsoft-chatgpt.html)
-  - HIST only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
-  - COMM only: Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
+	- First half (first 30:30) of Kevin Roose and Casey Newton, ["TikTok’s Spying Scandal and ChatGPT’s Challenge to Google"](https://www.nytimes.com/2023/01/06/podcasts/hard-fork-tiktok-microsoft-chatgpt.html) *Hard Fork* podcast, January 6, 2023. [Transcript](https://www.nytimes.com/2023/01/06/podcasts/hard-fork-tiktok-microsoft-chatgpt.html) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/hard-fork-tiktok-s-spying-scandal-chatgpt-puts-google-on-notice-phone-jail?assignmentId=Dno5zHfeW3ARuRQTj&part=1)]
+  - HIST only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/keeping-it-real-or-perspectives-on-history-or-aha-145939554?assignmentId=sNLLJvCirQZDXWTmF&part=1)]
+  - COMM only: Kalley Huang, ["TikTok Class Is in Session"](https://www.nytimes.com/2022/12/21/technology/tiktok-influencer-classes.html) *New York Times* (December 21, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/tiktok-class-is-in-session-the-new-york-times?assignmentId=QwakxKYnhqbcB645J&part=1)]
 
 - In Class (slides):
 	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major!)
