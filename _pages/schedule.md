@@ -153,29 +153,29 @@ classes: narrow
 - Download and install [Audacity](https://www.audacityteam.org/download/) on your laptop and have it ready for class: [Windows](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/), [Chromebook](https://chromeready.com/2391/how-to-install-audacity-on-chromebook/)
   - Follow these instructions to install the FFmpeg library for Audacity: [Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html).
 - Perusall:
-  - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021). [Perusall]
-  - Alison MacAdam, ["The journey from print to radio storytelling: A guide for navigating a new landscape"](https://training.npr.org/2017/12/06/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape/) *NPR News Training* (December 6, 2017). [Perusall]
+  - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/podcasting-is-booming-will-hollywood-help-or-hurt-its-future-the-new-york-times?assignmentId=Kf946qovBvneFkJ9F&part=1)]
+  - Alison MacAdam, ["The journey from print to radio storytelling: A guide for navigating a new landscape"](https://training.npr.org/2017/12/06/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape/) *NPR News Training* (December 6, 2017). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape-or-npr-training?assignmentId=3ciXgwt7CjDvimKNJ&part=1)]
 
 - In Class (slides):
 	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
 
 ### Wed., Mar. 1: Audio
 - Perusall:
-		- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [Perusall] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
+		- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
 - In Class (slides):
 	- Class visit from [May Ortega](https://www.linkedin.com/in/may-ortega-aa9b2672/), host and producer of *¿Quién Are We?* podcast on Colorado Public Radio
 
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
-	- Valerie Pennington, ["Making Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video) [Perusall]
+	- Valerie Pennington, ["Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/slides-that-don-t-suck-presentation-strategies-for-zoom-and-video?assignmentId=YqQNH8XB3L8W2aHeZ&part=1)]
 - Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project)
 - In Class (slides):
 	- In-class presentations on the topic of your media project
 
 ### Wed., Mar. 8: Music
 - Perusall:
-	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [Perusall]
+	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/kornhaber-tiktok-killed-the-video-star?assignmentId=DNonfx6DFm5PDsGKP&part=1)]
 - In Class (slides):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
 	- [Video Files and Editing II]({{site.baseurl}}/modules/video-editing-ii)
