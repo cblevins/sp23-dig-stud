@@ -140,56 +140,44 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major!)
-	- Anna presentation
 	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
 
 ### Wed., Feb. 22: Video
 - Complete Adobe Premiere Tutorial (TBD)
-- Record a video in which you make a **30-second elevator pitch** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out and you can be as silly as you want (cat and/or other pet appearances highly encouraged) - just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel** We will be using these during class to learn how to edit videos. 
+- Record a **30-second video** in which you convey one takeaway from this course so far. This can be from a reading, tutorial, assignment - whatever you want - and it can be as silly as you want (pet appearances highly encouraged). Just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to this link**. We will be using these during class to learn how to edit videos. 
 
 - In Class (slides):
-	- Unique presentation
 	- [Video files and editing]({{site.baseurl}}/modules/video-editing)
  
 ### Mon., Feb. 27: Audio
-- Download and install [Audacity](https://www.audacityteam.org/download/) on your laptop and have it ready for class: [Windows](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/).
+- Download and install [Audacity](https://www.audacityteam.org/download/) on your laptop and have it ready for class: [Windows](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/), [Chromebook](https://chromeready.com/2391/how-to-install-audacity-on-chromebook/)
   - Follow these instructions to install the FFmpeg library for Audacity: [Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html).
 - Perusall:
-  - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021).
-- I will assign you ONE of the following articles from the *New York Times* series "The State of Podcasting" that you will be responsible for teaching to your classmates. ([Reminder on how to access NYTimes as a student](https://library.auraria.edu/news/2022/new-year-new-tools-access-new-york-times)). You should read the article and take notes on ideas for how you will teach it: 
-  - ["Voice Lessons: When Podcast Hosts Speak, What Do We Hear?"](https://www.nytimes.com/interactive/2021/02/25/arts/podcast-voice-sound.html)
-  - ["Saidu Tejan-Thomas Jr. and the Voices of ‘Resistance’"](https://www.nytimes.com/2021/02/25/arts/saidu-tejan-thomas-jr-resistance.html)
-  - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
-  - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
+  - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021). [Perusall]
+  - Alison MacAdam, ["The journey from print to radio storytelling: A guide for navigating a new landscape"](https://training.npr.org/2017/12/06/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape/) *NPR News Training* (December 6, 2017). [Perusall]
 
 - In Class (slides):
-	- Sophie presentation
 	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
 
 ### Wed., Mar. 1: Audio
 - Perusall:
-	- Listen to episode [Beyond the Consul: Monterey](https://consolationprize.rrchnm.org/beyond-the-consul-monterey/) from the podcast *Consolation Prize* 
+		- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [Perusall] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
 - In Class (slides):
-	- Class visit from podcast guest (TBD)
-	- Quinn presentation
-
-[comment]: # (- Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*.)
+	- Class visit from [May Ortega](https://www.linkedin.com/in/may-ortega-aa9b2672/), host and producer of *¿Quién Are We?* podcast on Colorado Public Radio
 
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
-	- Valerie Pennington, ["Making Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video)
+	- Valerie Pennington, ["Making Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video) [Perusall]
 - Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project)
 - In Class (slides):
 	- In-class presentations on the topic of your media project
 
 ### Wed., Mar. 8: Music
 - Perusall:
-	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). *Note: the author of this article, Spencer Kornhaber, will be joining class to discuss how technology is shaping the music industry.*
-
+	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [Perusall]
 - In Class (slides):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
-	- Avigail presentation
 	- [Video Files and Editing II]({{site.baseurl}}/modules/video-editing-ii)
 
 ## Working With Data
@@ -264,7 +252,6 @@ classes: narrow
 	- Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017).
  
 - In Class (slides):
-	- Sophia presentation
 	- [Tableau Public practice]({{site.baseurl}}/modules/tableau-public)
 
 *[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due April 9th*
