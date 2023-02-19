@@ -124,10 +124,10 @@ classes: narrow
 [comment]: # (Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019))
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
 
-*Meet with Professor Blevins for one-on-one meeting by February 17th*
+*Meet with Professor Blevins for one-on-one meeting by Fri. February 17th*
 {: .notice--info}
 
-*First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due February 19th*
+*First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due Sun. February 19th*
 {: .notice--info}
 
 ### Mon., Feb. 20: Video
@@ -140,14 +140,16 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major!)
-	- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/modules/adobe-premiere)
+	- [Introduction to Adobe Premiere Pro]({{site.baseurl}}/modules/intro-adobe-premiere)
 
 ### Wed., Feb. 22: Video
-- Complete Adobe Premiere Tutorial (TBD)
-- Record a **30-second video** in which you convey one takeaway from this course so far. This can be from a reading, tutorial, assignment - whatever you want - and it can be as silly as you want (pet appearances highly encouraged). Just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to this link**. We will be using these during class to learn how to edit videos. 
+- Complete the following Adobe Premiere Pro tutorials:
+	- [Adding Images and Text](https://helpx.adobe.com/premiere-pro/how-to/add-image-text-adjust-size.html)
+	- [Adding Effects](https://helpx.adobe.com/premiere-pro/how-to/add-effects-video-clips.html)
+- Record a video that is **under thirty seconds** in which you convey one takeaway from this course so far. This can be from a reading, tutorial, assignment - whatever you want - and it can be as silly as you want (pet appearances highly encouraged). Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording), name it `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`), and click **[this link](https://www.dropbox.com/request/92D6Fl9F2TKLiOpvjWkN)** to upload your video to Dropbox. We will be using these during class to learn how to edit videos. 
 
 - In Class (slides):
-	- [Video files and editing]({{site.baseurl}}/modules/video-editing)
+	- [Video Files and Editing with Adobe Premiere Pro I]({{site.baseurl}}/modules/video-editing-1)
  
 ### Mon., Feb. 27: Audio
 - Download and install [Audacity](https://www.audacityteam.org/download/) on your laptop and have it ready for class: [Windows](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/), [Chromebook](https://chromeready.com/2391/how-to-install-audacity-on-chromebook/)
@@ -169,7 +171,8 @@ classes: narrow
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
 	- Valerie Pennington, ["Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/slides-that-don-t-suck-presentation-strategies-for-zoom-and-video?assignmentId=YqQNH8XB3L8W2aHeZ&part=1)]
-- Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project)
+- Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project).
+
 - In Class (slides):
 	- In-class presentations on the topic of your media project
 
@@ -178,7 +181,7 @@ classes: narrow
 	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/kornhaber-tiktok-killed-the-video-star?assignmentId=DNonfx6DFm5PDsGKP&part=1)]
 - In Class (slides):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
-	- [Video Files and Editing II]({{site.baseurl}}/modules/video-editing-ii)
+	- [Video Files and Editing in Adobe Premiere Pro II]({{site.baseurl}}/modules/video-editing-2)
 
 ## Working With Data
 
@@ -205,7 +208,7 @@ classes: narrow
 	- Class visit from [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
 	- Spreadsheet functions
 
-*[Media Project]({{site.baseurl}}/assignments/media-project) due March 16th*
+*[Media Project]({{site.baseurl}}/assignments/media-project) due Fri. March 17th*
 {: .notice--info}
 
 ### ~~Mon., Mar. 20: No Class (Spring Break)~~
