@@ -19,7 +19,7 @@ Prior to completing your media project, you will first give a 5-minute presentat
 #### Video File
 The final product is a 5-7 minute multimedia video that includes the following elements:
 
-- Voiceover narration of your topic. This can be recorded in Zoom or Audacity.
+- Voiceover narration of your topic
 - Additional audio (music, sound effects, etc.)
 - Still images, photographs, charts, etc. illustrating your narration
 - Video illustrating your narration (this can be a Zoom recording of yourself talking or other video clips)

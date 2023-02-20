@@ -138,7 +138,7 @@ classes: narrow
   - HIST only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/keeping-it-real-or-perspectives-on-history-or-aha-145939554?assignmentId=sNLLJvCirQZDXWTmF&part=1)]
   - COMM only: Kalley Huang, ["TikTok Class Is in Session"](https://www.nytimes.com/2022/12/21/technology/tiktok-influencer-classes.html) *New York Times* (December 21, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/tiktok-class-is-in-session-the-new-york-times?assignmentId=QwakxKYnhqbcB645J&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1l2ZToa6Sn_sfdgTez0UDwpOlMymOdNh2w8UGTXUeCbo/edit?usp=sharing)):
 	- Class visit from Anya Dickson-Arguello, Digital Equity Program Manager for Mayor’s Office of Social Equity and Innovation (and recent CU Denver COMM major!)
 	- [Introduction to Adobe Premiere Pro]({{site.baseurl}}/modules/intro-adobe-premiere)
 
