@@ -149,7 +149,8 @@ classes: narrow
 - Bring headphones and a laptop charger to class!
 - Record a video that is **under thirty seconds** in which you convey one takeaway from this course so far. This can be from a reading, tutorial, assignment - whatever you want - and it can be as silly as you want (pet appearances highly encouraged). Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording), name it `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`), and click **[this link](https://www.dropbox.com/request/92D6Fl9F2TKLiOpvjWkN)** to upload your video to Dropbox. We will be using these during class to learn how to edit videos. 
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1uyRtqp9wHk1VZJ-DKI09lIqXc6STr6bbrjjFATHB8pI/edit?usp=sharing)):
+	- Discussion of TikTok
 	- [Video Files and Editing with Adobe Premiere Pro I]({{site.baseurl}}/modules/video-editing-1)
  
 ### Mon., Feb. 27: Audio
