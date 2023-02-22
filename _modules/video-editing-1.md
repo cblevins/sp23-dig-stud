@@ -42,7 +42,7 @@ Your goal is to create a short promo video using the above building blocks that 
 - End your video with **3 seconds** of the `zoom-screenshot` image.
 - **Rotate** the zoom-screenshot image of the class so that it's at a **45-degree angle**. (You may need to show the `Effect Controls` panel under `Window`).
 - Add a **text object** to the last 3 seconds of the still image that says `Introduction to Digital Studies`
-- **Export your project** content as a single new video file using the settings Format: `H.264` and Match Source: `Adaptive Medium Bitrate`. Make sure to rename the Output Name to `yourfirstname-yourlastname-promo.mp4` and upload it to the `#in-class` Slack channel.
+- **Export your project** content as a single new video file using the settings Format: `H.264` and Match Source: `Adaptive Medium Bitrate`. Make sure to rename the Output Name to `yourfirstname-yourlastname-promo.mp4` and upload it to the `#in-class` Slack channel *as a Reply in Thread to Professor Blevins post today*.
 
 **Bonus:**
 - Add an audio fade-in and fade-out for the transitions between the opening music and each of the video files ([Tutorial](https://helpx.adobe.com/premiere-pro/using/audio-transitions.html))
