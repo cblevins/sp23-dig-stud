@@ -8,7 +8,13 @@ The goal of today is continue to learn how to use the video editing software Ado
 
 ## Your building blocks
 
-Download the .zip file posted to the `#in-class` Slack channel and extract it to a sub-folder in your computer's folder for this class ([Windows instructions](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.), [Mac instructions](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item)). In this folder you will have the "building blocks" for making your video:
+Download the .zip file posted to the `#in-class` Slack channel according to your group number:
+
+- Groups 1 & 2: `files-01`
+- Groups 3 & 4: `files-02`
+- Groups 5 & 6: `files-03`
+
+Extract your zip file ([Windows instructions](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.), [Mac instructions](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item)) and move the enclosed folder of files (ex. `files-01`) to your `video-editing` folder. Inside this folder you will have the "building blocks" for making your video:
 
 - Several short videos each of you recorded (.mp4 files)
 - Image to use as a video background (background-image.jpeg)
@@ -17,7 +23,7 @@ Download the .zip file posted to the `#in-class` Slack channel and extract it to
 
 ## Things to include
 
-Your goal is to create a short video using the above building blocks that includes the following:
+Your goal is to create a short promo video using the above building blocks that includes the following:
 
 - Create and save a new project in Adobe Premiere Pro in your `video-editing` folder on your computer
 - Choose **three video clips** recorded by your classmates to include in your promo (you don't have to go through all of them).
