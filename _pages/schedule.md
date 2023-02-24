@@ -168,7 +168,8 @@ classes: narrow
 	- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
 - In Class (slides):
-	- Class visit from [May Ortega](https://www.linkedin.com/in/may-ortega-aa9b2672/), host and producer of *¿Quién Are We?* podcast on Colorado Public Radio
+	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
+	- Preparing for presentations
 
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
@@ -176,6 +177,7 @@ classes: narrow
 - Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project).
 
 - In Class (slides):
+	- Class visit from [May Ortega](https://www.linkedin.com/in/may-ortega-aa9b2672/), host and producer of *¿Quién Are We?* podcast on Colorado Public Radio
 	- In-class presentations on the topic of your media project
 
 ### Wed., Mar. 8: Music
