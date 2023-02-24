@@ -164,6 +164,7 @@ classes: narrow
 	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
 
 ### Wed., Mar. 1: Audio
+- Come to class with a 30-second “elevator pitch” for your [Media Project]({{site.baseurl}}/assignments/media-project) that explains what topic you chose and why you chose it.
 - Perusall:
 	- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
