@@ -154,6 +154,7 @@ classes: narrow
 	- [Video Files and Editing with Adobe Premiere Pro I]({{site.baseurl}}/modules/video-editing-1)
  
 ### Mon., Feb. 27: Audio
+- Bring headphones to class!
 - Download and install [Audacity](https://www.audacityteam.org/download/) on your laptop and have it ready for class: [Windows](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/), [Chromebook](https://chromeready.com/2391/how-to-install-audacity-on-chromebook/)
   - Follow these instructions to install the FFmpeg library for Audacity: [Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html).
 - Perusall:
@@ -161,15 +162,16 @@ classes: narrow
   - Alison MacAdam, ["The journey from print to radio storytelling: A guide for navigating a new landscape"](https://training.npr.org/2017/12/06/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape/) *NPR News Training* (December 6, 2017). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape-or-npr-training?assignmentId=3ciXgwt7CjDvimKNJ&part=1)]
 
 - In Class (slides):
-	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
+	- [Audio Editing I]({{site.baseurl}}/modules/audio-editing-1)
 
 ### Wed., Mar. 1: Audio
-- Come to class with a 30-second “elevator pitch” for your [Media Project]({{site.baseurl}}/assignments/media-project) that explains what topic you chose and why you chose it.
+- Bring headphones to class!
+- Use Audacity to record a 30-second “elevator pitch” for your [Media Project]({{site.baseurl}}/assignments/media-project) that explains what topic you chose and why you chose it. Export it as a MP3 file named `yourfirstname-yourlastname.mp3` (`cameron-blevins.mp3`) and upload it to [this Dropbox link](https://www.dropbox.com/request/adCAiN0ZEtKpFuTj1ix1) by 12:30pm. 
 - Perusall:
 	- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
 - In Class (slides):
-	- [Recording and editing audio]({{site.baseurl}}/modules/audio-editing)
+	- [Audio Editing II]({{site.baseurl}}/modules/audio-editing-2)
 	- Preparing for presentations
 
 ### Mon., Mar. 6: Media Project Presentations

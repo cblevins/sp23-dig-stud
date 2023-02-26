@@ -8,7 +8,7 @@ Today you will be learning the basics of Adobe Premiere Pro.
 
 This video provides a short overview of what Adobe Premiere Pro is and how you might use it:
 
-{% include video id="QlU6mFMc3kc" provider="youtube" %}h
+{% include video id="QlU6mFMc3kc" provider="youtube" %}
 
 ## Making Your First Video
 
