@@ -4,11 +4,7 @@ title: Audio Editing I
 
 ### Overview
 
-You will be working in pairs today to learn how to use the open-source software Audacity to edit audio. The goal is to have a roughly one minute recording where you discuss ideas for what you'd like to do for your media project, interspersed with music and sound effects. It should incorporate the following components:
-
-- Brief musical introduction
-- Main audio of your conversation
-- A personal sign-off with a sound effect
+You will be working in pairs today to learn how to use the open-source software Audacity to edit audio. The goal is to have a roughly one minute recording where you discuss ideas for what you'd like to do for your media project.
 
 ### Part I: Recording 
 
