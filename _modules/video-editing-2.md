@@ -13,7 +13,7 @@ Download the .zip file posted to the `#in-class` Slack channel and extract it to
 - A collection of image files of your pets that were posted to Slack at the beginning of the semester
 - Audio file to use as background music (.mp3 file)
 
-In addition to these files, download a few pet videos posted by your classmates on the `in-class` Slack channel.
+In addition to these files, download a few pet videos posted by your classmates on the `#random` Slack channel.
 
 ## Things to include
 

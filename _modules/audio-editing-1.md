@@ -22,7 +22,7 @@ Things to review before starting to record:
 - Click in the `Recording Meter` and make sure that the microphone is picking up audio.
 - Position your laptop as best you can so that you're talking into it while also being able to converse with your partner
 - `Record` your conversation on both laptops (shoot for a maximum of 1-2 minutes). 
-- When you are done recording, each person [export the audio as a MP3 file](https://manual.audacityteam.org/man/export.html) named `yourfirstname-yourlastname-audio-1.mp3` and then share that .mp3 file with the other person over Slack DM.
+- When you are done recording, each person [export the audio as a MP3 file](https://manual.audacityteam.org/man/export.html) named `yourfirstname-yourlastname-audio-1a.mp3` and then share that .mp3 file with the other person over Slack DM.
 - Save your partner's .mp3 file in `audio-editing` folder. 
 - Import your partner's audio file into your project by going to File > Import > Audio... and selecting the file
 
@@ -40,8 +40,8 @@ Then try to do all of the the following in Audacity:
 - Use the [Selection Tool](https://manual.audacityteam.org/man/selecting_audio_the_basics.html) to delete or cut the sections from your two tracks in which the *other* person is speaking (so that *your* track only plays *your* voice, and your partner's track only plays *their* voice). 
 - Use the Selection Tool to move each track so that they play back to back
 - Use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) to adjust the volume of your tracks or specific parts of each track so they're relatively even (ie. one is not louder than the other)
-- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as an .mp3 file called `yourlastname-yourfirstname.mp3` 
-- `Reply in thread` to Prof. Blevins's post in the `#in-class` channel today
+- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as an .mp3 file called `yourfirstname-yourlastname-audio-1b.mp3`
+- `Reply in thread` to Prof. Blevins's post in the `#in-class` channel today and upload your recorded .mp3 file
 
 ### General Podcast Resources
 

@@ -161,14 +161,15 @@ classes: narrow
   - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/podcasting-is-booming-will-hollywood-help-or-hurt-its-future-the-new-york-times?assignmentId=Kf946qovBvneFkJ9F&part=1)]
   - Alison MacAdam, ["The journey from print to radio storytelling: A guide for navigating a new landscape"](https://training.npr.org/2017/12/06/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape/) *NPR News Training* (December 6, 2017). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/the-journey-from-print-to-radio-storytelling-a-guide-for-navigating-a-new-landscape-or-npr-training?assignmentId=3ciXgwt7CjDvimKNJ&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1Kaufo8pIA4NYCUR0hPeZJTDCY5vRT-_jXSySszr4xbY/edit?usp=sharing)):
+	- [Going from print to audio](https://docs.google.com/document/d/1xwMlcxWDT0pZV9BmepdMBazK0bluOViU3p2uCgrdwVo/edit?usp=sharing)
 	- [Audio Editing I]({{site.baseurl}}/modules/audio-editing-1)
 
 ### Wed., Mar. 1: Audio
 - Bring headphones to class!
 - Use Audacity to record a 30-second “elevator pitch” for your [Media Project]({{site.baseurl}}/assignments/media-project) that explains what topic you chose and why you chose it. Export it as a MP3 file named `yourfirstname-yourlastname.mp3` (`cameron-blevins.mp3`) and upload it to [this Dropbox link](https://www.dropbox.com/request/adCAiN0ZEtKpFuTj1ix1) by 12:30pm. 
 - Perusall:
-	- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] and [link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
+	- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] ([Link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
 - In Class (slides):
 	- [Audio Editing II]({{site.baseurl}}/modules/audio-editing-2)
@@ -184,6 +185,7 @@ classes: narrow
 	- In-class presentations on the topic of your media project
 
 ### Wed., Mar. 8: Music
+- Optional: Record a short video (less than 10 seconds) of your pet, name the file your pet's name, and then upload it to the `#random` channel as a Reply in Thread response to Prof. Blevins's post.
 - Perusall:
 	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/kornhaber-tiktok-killed-the-video-star?assignmentId=DNonfx6DFm5PDsGKP&part=1)]
 - In Class (slides):
