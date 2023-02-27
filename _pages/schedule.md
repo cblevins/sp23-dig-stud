@@ -171,9 +171,10 @@ classes: narrow
 - Perusall:
 	- Listen to episode ["The Millennial Mom"](https://www.cpr.org/podcast-episode/the-millennial-mom/) from podcast *¿Quién Are We?*, Colorado Public Radio (October 28, 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/quien-are-we-the-millennial-mom?assignmentId=8q5zsL9SWtZ9isJJo&part=1)] ([Link to written transcript](https://www.cpr.org/podcast-episode/the-millennial-mom/#:~:text=view%20the%20transcript,-show%20item%20details)). *Content note: this episode discusses miscarriage.*
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1av1lTiDq_XVYw2lHUL0lhe5t4pKcBFHVLX4RHLfNNr0/edit?usp=sharing)):
+	- [Slideshow presentation practice](https://docs.google.com/presentation/d/1-krRKTp0T1MdjFLJmHf_sPabvGNyMYutvwwodolhNX4/edit?usp=sharing)
 	- [Audio Editing II]({{site.baseurl}}/modules/audio-editing-2)
-	- Preparing for presentations
+
 
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
@@ -196,9 +197,9 @@ classes: narrow
 
 ### Mon., Mar. 13: The Data Economy
 - Perusall:
-  - Video: ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020) (10 min.)
-  - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019)
-  - HIST 5260 / COMM 5081 only: Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020)
+  - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/dear-liberal-arts-major-stem-companies-need-your-skills-to-grow-or-edsurge-news?assignmentId=Fkpdx96zJvY5C34v4&part=1)]
+  - ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020) (10 min.) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/data-analyst-vs-data-engineer-vs-data-scientist?assignmentId=9ymWEB6t2wvMWBwHm&part=1)]
+  - HIST 5260 / COMM 5081 only: Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/degroot_ancestry-com-and-the-evolving-nature-of-historical-information-companies-877834810?assignmentId=H8sqjQncvSKYaNrn2&part=1)]
 
 [comment]: # (- Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019))
 
@@ -207,15 +208,12 @@ classes: narrow
 	- [Data structures and recording information in spreadsheets]({{site.baseurl}}/modules/making-data) 
 
 ### Wed., Mar. 15: Processing Data
-- Perusall:
-	- Video (12 min.): ["10 Common Excel Mistakes to Avoid"](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) by Mynda Treacy and skim through the accompanying page for reference. On the #readings channel in Slack post a reaction to this advice: Have you seen these mistakes in the past or done these mistakes yourself? Do you find any of them confusing? Which did you find most helpful?
-- Additional (optional) data and spreadsheet resources:
-  - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
-  - Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).
-
+- No reading today - work on your Media Project
 - In Class (slides):
 	- Class visit from [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
 	- Spreadsheet functions
+
+[comment]: # (- Video (12 min.): ["10 Common Excel Mistakes to Avoid"](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) by Mynda Treacy and skim through the accompanying page for reference. On the #readings channel in Slack post a reaction to this advice: Have you seen these mistakes in the past or done these mistakes yourself? Do you find any of them confusing? Which did you find most helpful? - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017) Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).)
 
 *[Media Project]({{site.baseurl}}/assignments/media-project) due Fri. March 17th*
 {: .notice--info}
