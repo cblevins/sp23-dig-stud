@@ -13,7 +13,7 @@ The goal of today is to stitch together an audio file of examples of students' i
 ## Your building blocks
 
 - If you haven't done so already, make a new folder inside your `tutorials` class folder and name the folder `audio-editing`.
-- Download the .zip file posted to the `#in-class` Slack channel according to your group number:
+- Download the .zip file posted to the `#in-class` Slack channel by Prof. Blevins according to your group number:
 	- Groups 1 & 2: `files-01`
 	- Groups 3 & 4: `files-02`
 	- Groups 5 & 6: `files-03`
@@ -36,7 +36,8 @@ The goal of today is to stitch together an audio file of examples of students' i
 	- More than 1 second of silence at the beginning or end of the track
 - Use the [Loudness Normalization](https://manual.audacityteam.org/man/loudness_normalization.html) effect to even out the different recordings so that one isn't much louder than the others
 - Let's end your audio with a couple soothing seconds of a kitten purring. Go to the [Quick Sounds](https://quicksounds.com/) library, search for `kitten purr`, download the sound effect, and add it to the end of your project. Note: you'll need to select, move, and trim the track.h
-- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as a .mp3 file called `yourlastname-yourfirstname-audio-2.mp3` and upload it to the `#in-class` Slack channel. 
+- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as a .mp3 file called `yourlastname-yourfirstname-audio-2.mp3` 
+- Upload your completed audio file by using `Reply in Thread` to Prof. Blevins's post in the `#in-class` Slack channel distributing the original files.
 
 ## General Podcast Resources
 
