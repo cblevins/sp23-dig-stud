@@ -181,14 +181,16 @@ classes: narrow
 	- Valerie Pennington, ["Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/slides-that-don-t-suck-presentation-strategies-for-zoom-and-video?assignmentId=YqQNH8XB3L8W2aHeZ&part=1)]
 - Prepare a 5-minute presentation with accompanying slides on the [topic of your media project]({{site.baseurl}}/assignments/media-project).
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1Xzu3MAN-ReE7cr7D4Cpok8FvU04mvW5OdfIL0Mhc9mg/edit?usp=sharing)):
 	- Class visit from [May Ortega](https://www.linkedin.com/in/may-ortega-aa9b2672/), host and producer of *¿Quién Are We?* podcast on Colorado Public Radio
 	- In-class presentations on the topic of your media project
 
 ### Wed., Mar. 8: Music
-- Optional: Record a short video (less than 10 seconds) of your pet, name the file your pet's name, and then upload it to the `#random` channel as a Reply in Thread response to Prof. Blevins's post.
+- Bring headphones to class!
 - Perusall:
 	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/kornhaber-tiktok-killed-the-video-star?assignmentId=DNonfx6DFm5PDsGKP&part=1)]
+- Optional: Record a short video (less than 10 seconds) of your pet, name the file your pet's name, and then upload it to the `#random` channel as a Reply in Thread response to Prof. Blevins's post.
+
 - In Class (slides):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
 	- [Video Files and Editing in Adobe Premiere Pro II]({{site.baseurl}}/modules/video-editing-2)
