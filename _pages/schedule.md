@@ -191,7 +191,7 @@ classes: narrow
 	- Spencer Kornhaber, ["TikTok Killed the Video Star"](https://www.theatlantic.com/culture/archive/2022/06/tiktok-music-industry-labels-halsey/661286/) *The Atlantic* (June 2022). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/kornhaber-tiktok-killed-the-video-star?assignmentId=DNonfx6DFm5PDsGKP&part=1)]
 - Optional: Record a short video (less than 10 seconds) of your pet, name the file your pet's name, and then upload it to the `#random` channel as a Reply in Thread response to Prof. Blevins's post.
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1uy_ypxwVfyX1rYb61u2xA6AsEicHS9HWELRnlrSUCow/edit?usp=sharing)):
 	- Class visit from [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
 	- [Video Files and Editing in Adobe Premiere Pro II]({{site.baseurl}}/modules/video-editing-2)
 
