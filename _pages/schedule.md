@@ -247,7 +247,7 @@ classes: narrow
 
 [comment]: # (- HIST 5260 / COMM 5081 only: Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) *The New Yorker* (June 21, 2021))
 
-*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due March 26th*
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due March 31st*
 {: .notice--info}
 
 ### Mon., Apr. 3: Visualizing Data: Maps 
