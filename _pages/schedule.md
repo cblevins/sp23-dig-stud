@@ -207,13 +207,15 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
-	- [Data structures and recording information in spreadsheets]({{site.baseurl}}/modules/making-data) 
+	- Finish [Video Files and Editing in Adobe Premiere Pro II]({{site.baseurl}}/modules/video-editing-2)
+
+[comment]: # (- [Data structures and recording information in spreadsheets]({{site.baseurl}}/modules/making-data))
 
 ### Wed., Mar. 15: Processing Data
 - No reading today - work on your Media Project
 - In Class (slides):
 	- Class visit from [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
-	- Spreadsheet functions
+	- Introduction to spreadsheets
 
 [comment]: # (- Video (12 min.): ["10 Common Excel Mistakes to Avoid"](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) by Mynda Treacy and skim through the accompanying page for reference. On the #readings channel in Slack post a reaction to this advice: Have you seen these mistakes in the past or done these mistakes yourself? Do you find any of them confusing? Which did you find most helpful? - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017) Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).)
 
