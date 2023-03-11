@@ -175,7 +175,6 @@ classes: narrow
 	- [Slideshow presentation practice](https://docs.google.com/presentation/d/1-krRKTp0T1MdjFLJmHf_sPabvGNyMYutvwwodolhNX4/edit?usp=sharing)
 	- [Audio Editing II]({{site.baseurl}}/modules/audio-editing-2)
 
-
 ### Mon., Mar. 6: Media Project Presentations
 - Perusall:
 	- Valerie Pennington, ["Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min. video) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/slides-that-don-t-suck-presentation-strategies-for-zoom-and-video?assignmentId=YqQNH8XB3L8W2aHeZ&part=1)]
@@ -197,7 +196,7 @@ classes: narrow
 
 ## Working With Data
 
-### Mon., Mar. 13: The Data Economy
+### Mon., Mar. 13: The Data Economy I
 - Perusall:
   - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/dear-liberal-arts-major-stem-companies-need-your-skills-to-grow-or-edsurge-news?assignmentId=Fkpdx96zJvY5C34v4&part=1)]
   - ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020) (10 min.) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/data-analyst-vs-data-engineer-vs-data-scientist?assignmentId=9ymWEB6t2wvMWBwHm&part=1)]
@@ -205,17 +204,17 @@ classes: narrow
 
 [comment]: # (- Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019))
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1HfFP-bOvZ5DvCOw7L8zkmfmbjwh0L4XDh2WPSXagmdI/edit?usp=sharing)):
 	- Class visit from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
 	- Finish [Video Files and Editing in Adobe Premiere Pro II]({{site.baseurl}}/modules/video-editing-2)
 
 [comment]: # (- [Data structures and recording information in spreadsheets]({{site.baseurl}}/modules/making-data))
 
-### Wed., Mar. 15: Processing Data
+### Wed., Mar. 15: The Data Economy II
 - No reading today - work on your Media Project
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1T4tkHY6TlJ-AgiPoMtBmV8PMgeafYu-20vDIAvLDscA/edit?usp=sharing)):
 	- Class visit from [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
-	- Introduction to spreadsheets
+	- Media Project workshop
 
 [comment]: # (- Video (12 min.): ["10 Common Excel Mistakes to Avoid"](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) by Mynda Treacy and skim through the accompanying page for reference. On the #readings channel in Slack post a reaction to this advice: Have you seen these mistakes in the past or done these mistakes yourself? Do you find any of them confusing? Which did you find most helpful? - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017) Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).)
 
@@ -268,7 +267,7 @@ classes: narrow
 - In Class (slides):
 	- [Tableau Public practice]({{site.baseurl}}/modules/tableau-public)
 
-*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due April 9th*
+*[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due April 9th*
 {: .notice--info}
 
 ### Mon., Apr. 10: Organizing Data
@@ -278,7 +277,7 @@ classes: narrow
 
 - In Class (slides):
 	- Class visit from [Nickoal Eichmann-Kalwara](https://nickoal.com/), Digital Scholarship Librarian at the University of Colorado Boulder.
-	- Working with Metadata
+	- Working with metadata
 
 ### Wed., Apr. 12: Accessing Data
 - Perusall:
@@ -292,10 +291,10 @@ classes: narrow
 
 ## Wrapping Up
 
-*Idea for [Final Project]({{site.baseurl}}/assignments/final-project) due April 14th*
+*Idea for [Final Project]({{site.baseurl}}/assignments/final-project) due Fri. April 14th*
 {: .notice--info}
 
-*[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due April 14th*
+*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due Sun. April 16th*
 {: .notice--info}
 
 ### Mon., Apr. 17: Final Project Workshop

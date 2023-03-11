@@ -30,7 +30,12 @@ As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be u
 - Annotate assigned readings on Perusall by 12:30pm on the day of class
 
 ### [Career Portfolio]({{site.baseurl}}/assignments/career-portfolio) (due dates vary)
-- Series of short task-based assignments geared towards professsionalization 
+- Series of short task-based assignments geared towards professsionalization:
+	- LinkedIn Profile (2/6)
+	- Networking Follow-Up Email (different due dates)
+	- Career Center Appointment and Reflection (4/16)
+	- Resume Page (4/23)
+	- Website Portfolio (5/5)
 
 ### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene) (2/12)
 - Check up on the privacy and security of your digital identity and develop online writing skills 
@@ -40,7 +45,7 @@ As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be u
   - In-class presentation due March 6th
   - Multimedia video due March 17th
 
-### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (4/9)
+### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (4/16)
 - Evaluate a dataset and analyze/visualize some of its features
 
 ### [HIST 5260 and COMM 5081: Project Review]({{site.baseurl}}/assignments/project-review) (due dates vary)

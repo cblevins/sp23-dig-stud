@@ -19,4 +19,4 @@ You will then use Tableau Public to explore the contents of the dataset in more 
 
 ---
 
-*Submit a URL of your page on Canvas by 4/9 at 11:59PM*
+*Submit a URL of your page on Canvas by 4/16 at 11:59PM*
