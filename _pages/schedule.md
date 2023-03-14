@@ -218,7 +218,7 @@ classes: narrow
 
 [comment]: # (- Video (12 min.): ["10 Common Excel Mistakes to Avoid"](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) by Mynda Treacy and skim through the accompanying page for reference. On the #readings channel in Slack post a reaction to this advice: Have you seen these mistakes in the past or done these mistakes yourself? Do you find any of them confusing? Which did you find most helpful? - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017) Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).)
 
-*[Media Project]({{site.baseurl}}/assignments/media-project) due Fri. March 17th*
+*[Media Project]({{site.baseurl}}/assignments/media-project) due Sun. March 19th*
 {: .notice--info}
 
 ### ~~Mon., Mar. 20: No Class (Spring Break)~~
