@@ -35,9 +35,12 @@ You also need to make a page on your personal website:
 
 ---- 
 
-*Upload the **multimedia video file** AND a **URL of your Wordpress page** to Canvas by March 17th at 11:59PM*
+*Upload a **URL of your Wordpress page** AND the **multimedia video file** to Canvas by March 17th at 11:59PM*
 
-![]({{site.baseurl}}/assignments/canvas-media-project.png)
+To submit this on Canvas you'll need to do multiple submissions on the assignment page: 
+
+1. Website URL: Copy and paste the URL to your Wordpress page and hit the `Submit Assignment` button. 
+2. Multimedia video: Click `New Attempt` on the assignment page, go to the `Media` tab, click `Record/Upload Media` and go to `Upload Media` -> `Select Video File` in the pop-up window. Then click `Submit Assignment` button. 
 
 ----
 

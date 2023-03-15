@@ -228,7 +228,7 @@ classes: narrow
 ### Mon., Mar. 27: Analyzing Data
 - [Install Tableau Public](https://public.tableau.com/en-us/s/download/) on your computer
 - Perusall:
-  - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
+  - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/data-feminism-ch6-237684988?assignmentId=7GMAQfKmFJNci6foP&part=1)]
   - HIST 5260 only: Claire Lemercier and Claire Zalc, ["History by numbers"](https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger)
   - COMM 5081 only: ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
 
