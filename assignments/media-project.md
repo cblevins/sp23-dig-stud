@@ -42,6 +42,8 @@ To submit this on Canvas you'll need to do multiple submissions on the assignmen
 1. Website URL: Copy and paste the URL to your Wordpress page and hit the `Submit Assignment` button. 
 2. Multimedia video: Click `New Attempt` on the assignment page, go to the `Media` tab, click `Record/Upload Media` and go to `Upload Media` -> `Select Video File` in the pop-up window. Then click `Submit Assignment` button. 
 
+*Note: if the file is too large to upload to Canvas, please re-export the file with a smaller size ([instructions](https://adobemasters.net/how-to-reset-workspaces-in-adobe-premiere-pro-2022/#:~:text=Premiere%20Pro%20CC.-,How%20to%20Reduce%20File%20Size%20in%20Adobe%20Premiere%20Pro%20CC,-First%20import%20some)).*
+
 ----
 
 ### Resources and Tutorials

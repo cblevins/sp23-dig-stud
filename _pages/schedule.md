@@ -225,20 +225,19 @@ classes: narrow
 
 ### ~~Wed., Mar. 22: No Class (Spring Break)~~
 
-### Mon., Mar. 27: Analyzing Data
+### Mon., Mar. 27: Understanding Data
 - [Install Tableau Public](https://public.tableau.com/en-us/s/download/) on your computer
 - Perusall:
   - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/data-feminism-ch6-237684988?assignmentId=7GMAQfKmFJNci6foP&part=1)]
-  - HIST 5260 only: Claire Lemercier and Claire Zalc, ["History by numbers"](https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger)
-  - COMM 5081 only: ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
+  - HIST 5260 only: Claire Lemercier and Claire Zalc, ["History by numbers"](https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger?assignmentId=5sfvQ5PNpHFg5KDsb&part=1)]
+  - COMM 5081 only: ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/data-feminism-ch-4?assignmentId=42sSY3nmrSBRK2drS&part=1)]
 
 - In Class (slides):
+	- Introduction to Spreadsheets
 	- Introduction to Tableau Public
-
-### Wed., Mar. 29: Visualizing Data: Charts
-- Perusall:
-  - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240.
-- Watch the first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter? 
+ 
+### Wed., Mar. 29: Analyzing Data
+- Tutorial on Tableau Public
 
 - In Class (slides):
 	- Class visit from [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/), graphics designer and developer for the *Washington Post*.
@@ -249,10 +248,10 @@ classes: narrow
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due March 31st*
 {: .notice--info}
 
-### Mon., Apr. 3: Visualizing Data: Maps 
+### Mon., Apr. 3: Visualizing Data I
 - Perusall:
-  - Robert Lee and Tristan Ahtone, ["Land Grab Universities"](https://www.hcn.org/issues/52.4/indigenous-affairs-education-land-grab-universities) *High Country News* (March 30, 2020)
-  - HIST 5260 / COMM 5081 only: Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).
+	- Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/deluca-nelson-lying-with-maps?assignmentId=yhf7jFDSaDZ75RrQo&part=1)]
+	- HIST 5260 / COMM 5081 only: Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/frontiers-or-envisioning-the-urban-past-gis-reconstruction-of-a-lost-denver-district?assignmentId=KpR8P85JPbCdWCupq&part=1)]
 
 [comment]: # (- Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.)
  
@@ -260,11 +259,12 @@ classes: narrow
 	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
 	- Making maps in Tableau Public
 
-### Wed., Apr. 5: Visualizing Data: Maps 
+### Wed., Apr. 5: Visualizing Data II
 - Perusall:
-	- Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017).
- 
+  - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/yau_datapoints_ch5?assignmentId=gsiF4Xoc6GYx7ePCX&part=1)]
+
 - In Class (slides):
+	- Close reading of first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 	- [Tableau Public practice]({{site.baseurl}}/modules/tableau-public)
 
 *[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due April 9th*
@@ -273,7 +273,7 @@ classes: narrow
 ### Mon., Apr. 10: Organizing Data
 [comment]: # (- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/modules/install-omeka) through your Reclaim Hosting account.)
 - Perusall:
-  - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
+  - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/thompson-why-dont-archivists-digitize-everything?assignmentId=x7GSszfH3WocbzbTR&part=1)]
 
 - In Class (slides):
 	- Class visit from [Nickoal Eichmann-Kalwara](https://nickoal.com/), Digital Scholarship Librarian at the University of Colorado Boulder.
@@ -288,6 +288,7 @@ classes: narrow
 
 - In Class (slides):
 	- [Digital Collections in Omeka]({{site.baseurl}}/modules/omeka)
+	- Data Exploration Workshop
 
 ## Wrapping Up
 
