@@ -232,12 +232,11 @@ classes: narrow
   - HIST 5260 only: Claire Lemercier and Claire Zalc, ["History by numbers"](https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger?assignmentId=5sfvQ5PNpHFg5KDsb&part=1)]
   - COMM 5081 only: ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/data-feminism-ch-4?assignmentId=42sSY3nmrSBRK2drS&part=1)]
 
-- In Class (slides):
-	- Introduction to Spreadsheets
-	- Introduction to Tableau Public
+- In Class ([slides](https://docs.google.com/presentation/d/1Wm5C3m2GGn048h4A1CM2KH8L_NZeZZJ4QcJfGhOlVkI/edit?usp=sharing)):
+	- [Understanding Data and Spreadsheets]({{site.baseurl}}/modules/understanding-data)
  
 ### Wed., Mar. 29: Analyzing Data
-- Tutorial on Tableau Public
+- Complete the tutorial [Tableau Public I]({{site.baseurl}}/modules/tableau-public-1/) and submit [a URL link on Canvas](https://ucdenver.instructure.com/courses/503517/assignments/1494936) to your completed Tableau Public Workbook.
 
 - In Class (slides):
 	- Class visit from [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/), graphics designer and developer for the *Washington Post*.
