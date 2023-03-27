@@ -13,10 +13,10 @@ Your goal is to explore a single dataset and write an analysis of the dataset on
 
 I have assigned you a specific dataset *depending on what section of the course* you are enrolled in. I have not provided any other information about the datasets other than the below links to get you started.
 
-- **HIST** students: **Eastern State Penitentiary Admission Book A**:
+- **HIST** students: `Eastern State Penitentiary Admission Book A`:
 	- [Link 1](https://repository.upenn.edu/mead/22/) for contextual information and to download the dataset
 	- [Link 2](https://search.amphilsoc.org/collections/view?docId=ead/Mss.365.P381p-ead.xml#SeriesI.Admissionledgersandboundvolumes:~:text=Detailed%20Inventory-,Series%20I.%20Admission%20ledgers%20and%20bound%20volumes,-1830%2D1892) for additional contextual information
-- **COMM** students: **Netflix Movie and TV Shows**:
+- **COMM** students: `Netflix Movie and TV Shows`:
 	- [Link 1](https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list) for contextual information
 	- [Link 2]({{site.baseurl}}/assignments/netflix_list.csv) to download the dataset directly without needing to register for a Kaggle account.
 
