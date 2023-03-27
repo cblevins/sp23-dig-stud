@@ -1,5 +1,5 @@
 ---
-title: Understanding Data
+title: Understanding Data & Spreadsheets
 toc: true
 toc_sticky: true
 classes: narrow
@@ -8,11 +8,11 @@ classes: narrow
 
 ## Introduction
 
-Over the next several classes you will be learning how to analyze and visualize data. To get started, we need to understand how to approach a dataset. Today we are going to practice these skills using the following dataset:[Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales).
+Over the next several classes you will be learning how to analyze and visualize data. To get started, we need to understand how to approach a dataset. Today we are going to practice these skills using the following dataset: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales).
 
 ## Data Reconaissance
 
-The most important step when approaching a potential source of data is to familiarize with the source itself. I am going to set a timer for **10 minutes**, during which you are going to explore the following dataset with your group and answer as many of the following questions as possible in [this Google Sheet](https://docs.google.com/document/d/1sFi2eOTq9y3fJzwiGKaPBj00LxmMndxkscQR_JbpQhY/edit?usp=sharing). 
+The most important step when approaching a potential source of data is to familiarize with the source itself. I am going to set a timer for **10 minutes**, during which you are going to explore the following dataset with your group and answer as many of the following questions as possible in [this Google Doc](https://docs.google.com/document/d/1sFi2eOTq9y3fJzwiGKaPBj00LxmMndxkscQR_JbpQhY/edit?usp=sharing). 
 
 * What kind of information is contained in this dataset?
 * Who created it?
@@ -26,7 +26,9 @@ Debrief:
 
 ## Spreadsheets
 
-Once you have a grasp on the basics of the data and how it was produced, now we can start to look at the data itself. The data is formatted as a spreadsheet, arguably one of the most common data formats you will come across. Spreadsheets can come in several different file types. For today, we're going to work in Google Sheets. Click [this link](https://docs.google.com/spreadsheets/d/1y7ijDS0_IR4BUAUN7JUixkS-hk4TaLYEWD505Cd1NnU/edit?usp=sharing) to access the above dataset in Google Sheets.
+Once you have a grasp on the basics of the data and how it was produced, now we can start to look at the data itself. The data is formatted as a spreadsheet, arguably one of the most common data formats you will come across. Spreadsheets can come in several different file types. For today, we're going to work in Google Sheets. Click [this link](https://docs.google.com/spreadsheets/d/1y7ijDS0_IR4BUAUN7JUixkS-hk4TaLYEWD505Cd1NnU/edit?usp=sharing) to access the above dataset in Google Sheets. 
+
+*Make a copy of the Google Sheet by going to `File -> Make a copy` and use that copy for today.*
 
 ### Sorting and Filtering
 
