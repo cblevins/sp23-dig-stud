@@ -13,14 +13,14 @@ Make a LinkedIn profile ([some helpful advice](https://university.linkedin.com/c
 We will be having a series of class visitors from people across a variety of professions to discuss their careers and how technology plays a role in their jobs. An important skill regardless of your career path is **networking**, or making professional connections. Choose **one class visitor** whose job looks interesting to you and sign up for their scheduled visit on [the shared Google Doc](https://docs.google.com/document/d/1mVevRuxucNDA8Yffe2rZmkviuZKOsy6PyxPoozBC4O8/edit?usp=sharing). After their visit,  write them a follow-up email or message (contact details will be provided on the Google Doc) that: a) introduces yourself, b) thanks them for speaking to us, and c) references at least 1-2 specific things they discussed that you appreciated or found helpful. You may also take this opportunity to ask any follow-up questions about their career that you may not have had the chance to ask during the visit. Submit a screenshot of your sent message to Canvas (instructions to take a screenshot for [Mac](https://support.apple.com/en-us/HT201361), [Windows](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b), [Chromebook](https://support.google.com/chromebook/answer/10474268?hl=en)). (**Due within 24 hours of their visit**) 
 
 ### Career Center Appointment and Reflection (4/9)
-Schedule an appointment with the Career Center through Handshake ([follow these instructions](https://www.ucdenver.edu/lynxconnect/career-center#:~:text=we%20are%20here%20to%20help!)). You can use that time to discuss any aspect of professionalization: career options, looking for a job/internship, your resume, etc. After your meeting write a 2-3 paragraph reflection on your meeting:
+[Schedule an appointment](https://app.joinhandshake.com/appointments) with the Career Center through Handshake. You can use that time to discuss any aspect of professionalization: career options, looking for a job/internship, your resume, etc. After your meeting write a 2-3 paragraph reflection on your meeting:
 
 * What did you discuss during your appointment?
 * What are some of your professional/career goals?
 * How does this class fit within those goals? Is there anything you are learning or want to learn more about?
 * How does this class fit with your primary area of study, major, minor, etc.? 
 
-*Note: if you are pursuing the [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/), you can use this Career Center meeting to fulfill one of your three required career-focus activities.* 
+*Note: if you are pursuing the [Digital Studies Certificate](https://clas.ucdenver.edu/digital-studies-certificates/), you can use this Career Center meeting to fulfill one of your three required career-focused activities.* 
 
 ### Resume Page (4/23)
 Follow [these instructions]({{site.baseurl}}/modules/resume-website/) to add a resume page to your website and post the URL to Canvas.
