@@ -236,11 +236,11 @@ classes: narrow
 	- [Understanding Data and Spreadsheets]({{site.baseurl}}/modules/understanding-data)
  
 ### Wed., Mar. 29: Analyzing Data
-- Complete the tutorial [Tableau Public I]({{site.baseurl}}/modules/tableau-public-1/) and submit [a URL link on Canvas](https://ucdenver.instructure.com/courses/503517/assignments/1494936) to your completed Tableau Public Workbook.
+- Complete the tutorial [Tableau Public I]({{site.baseurl}}/modules/tableau-public-1/) and submit [a URL on Canvas](https://ucdenver.instructure.com/courses/503517/assignments/1494936) to your completed Tableau Public workbook.
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1R3Li2NSqUeLksq4tcbj8xARS0GbR4gFWQUX_E5iG51E/edit?usp=sharing)):
 	- Class visit from [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/), graphics designer and developer for the *Washington Post*.
-	- [Data Visualization practice with Tableau Public]({{site.baseurl}}/modules/tableau-public-ii)
+	- [Tableau Public II]({{site.baseurl}}/modules/tableau-public-2/)
 
 [comment]: # (- HIST 5260 / COMM 5081 only: Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) *The New Yorker* (June 21, 2021))
 
@@ -248,6 +248,7 @@ classes: narrow
 {: .notice--info}
 
 ### Mon., Apr. 3: Visualizing Data I
+- Complete the [Tableau Public II]({{site.baseurl}}/modules/tableau-public-2/) tutorial we started in class and submit [a URL on Canvas](https://ucdenver.instructure.com/courses/503517/assignments/1495645) to your completed Tableau Public workbook.
 - Perusall:
 	- Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/deluca-nelson-lying-with-maps?assignmentId=yhf7jFDSaDZ75RrQo&part=1)]
 	- HIST 5260 / COMM 5081 only: Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015). [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/frontiers-or-envisioning-the-urban-past-gis-reconstruction-of-a-lost-denver-district?assignmentId=KpR8P85JPbCdWCupq&part=1)]
@@ -256,7 +257,7 @@ classes: narrow
  
 - In Class (slides):
 	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
-	- Making maps in Tableau Public
+	- [Tableau Public IV]({{site.baseurl}}/modules/tableau-public-3)
 
 ### Wed., Apr. 5: Visualizing Data II
 - Perusall:
@@ -264,7 +265,7 @@ classes: narrow
 
 - In Class (slides):
 	- Close reading of first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
-	- [Tableau Public practice]({{site.baseurl}}/modules/tableau-public)
+	- [Tableau Public IV]({{site.baseurl}}/modules/tableau-public-4)
 
 *[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due April 9th*
 {: .notice--info}
