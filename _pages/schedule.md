@@ -255,9 +255,10 @@ classes: narrow
 
 [comment]: # (- Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.)
  
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1tC8Gv7zARN-_ftuP4iG5kQ82jf69vUgIzVIGN_nBShA/edit?usp=sharing)):
 	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
-	- [Tableau Public IV]({{site.baseurl}}/modules/tableau-public-3)
+	- ["Little Lies" in Mapping](https://docs.google.com/document/d/1G0OrfUMSyBVX8-3Kd_KeMCDHN7XKgmp1XQO-MT3q8wQ/edit?usp=sharing)
+	- Mapping in Tableau Public
 
 ### Wed., Apr. 5: Visualizing Data II
 - Perusall:
@@ -265,19 +266,21 @@ classes: narrow
 
 - In Class (slides):
 	- Close reading of first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
-	- [Tableau Public IV]({{site.baseurl}}/modules/tableau-public-4)
+	- [Tableau Public III]({{site.baseurl}}/modules/tableau-public-3)
 
 *[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due April 9th*
 {: .notice--info}
 
 ### Mon., Apr. 10: Organizing Data
-[comment]: # (- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/modules/install-omeka) through your Reclaim Hosting account.)
+- Complete the [Tableau Public III]({{site.baseurl}}/modules/tableau-public-3/) tutorial and submit [a URL on Canvas]() to your completed Tableau Public workbook.
 - Perusall:
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/thompson-why-dont-archivists-digitize-everything?assignmentId=x7GSszfH3WocbzbTR&part=1)]
 
 - In Class (slides):
 	- Class visit from [Nickoal Eichmann-Kalwara](https://nickoal.com/), Digital Scholarship Librarian at the University of Colorado Boulder.
 	- Working with metadata
+
+[comment]: # (- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/modules/install-omeka) through your Reclaim Hosting account.)
 
 ### Wed., Apr. 12: Accessing Data
 - Perusall:
