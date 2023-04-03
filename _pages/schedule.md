@@ -256,7 +256,11 @@ classes: narrow
 [comment]: # (- Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.)
  
 - In Class ([slides](https://docs.google.com/presentation/d/1tC8Gv7zARN-_ftuP4iG5kQ82jf69vUgIzVIGN_nBShA/edit?usp=sharing)):
-	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
+	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library:
+		- [Mapping Resources slides]({{site.baseurl}}/assets/other/diane-fritz-slides-sp23.pdf)
+		- [StoryMaps handout](https://guides.auraria.edu/ld.php?content_id=61855868)
+		- [ArcGIS Online handout](https://guides.auraria.edu/ld.php?content_id=59439481)
+		- [Social Explorer handout](https://guides.auraria.edu/ld.php?content_id=70853098)
 	- ["Little Lies" in Mapping](https://docs.google.com/document/d/1G0OrfUMSyBVX8-3Kd_KeMCDHN7XKgmp1XQO-MT3q8wQ/edit?usp=sharing)
 	- [Mapping in Tableau Public]({{site.baseurl}}/modules/mapping-tableau-public/)
 
@@ -268,7 +272,7 @@ classes: narrow
 	- Close reading of first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 	- [Tableau Public III]({{site.baseurl}}/modules/tableau-public-3)
 
-*[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due April 9th*
+*[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due ~~April 9th~~ April 11th*
 {: .notice--info}
 
 ### Mon., Apr. 10: Organizing Data

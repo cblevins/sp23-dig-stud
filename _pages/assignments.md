@@ -33,7 +33,7 @@ As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be u
 - Series of short task-based assignments geared towards professsionalization:
 	- LinkedIn Profile (2/6)
 	- Networking Follow-Up Email (different due dates)
-	- Career Center Appointment and Reflection (4/16)
+	- Career Center Appointment and Reflection (4/11)
 	- Resume Page (4/23)
 	- Website Portfolio (5/5)
 
