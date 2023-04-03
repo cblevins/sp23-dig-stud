@@ -31,7 +31,7 @@ Question: Which western **state** has the **second-most** post offices?
 {: .notice--primary}
 
 - [Create a bar chart](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_bar.htm) with vertical columns illustrating the number of post offices in each state.
-	- Hint: Use the data field towards the bottom ending in `(Count)` - this allows you to count up all the records (rows) in a dataset or parts of a dataset
+	- Hint: Use the data field *`1871-postmaster-salaries.csv (Count)`* - this allows you to count up all the records (rows) in a dataset or parts of a dataset
 - Sort the bar chart so that it is in descending order (ie. state with most post offices is on the left, the state with the fewest post offices is on the right)
 - Add an [annotation](https://sarahlovesdata.co.uk/2020/05/19/how-to-use-annotations-in-tableau/) to the column on your chart corresponding to the state with the second-most post offices so that it says the name of the state.
 
@@ -51,7 +51,7 @@ Question: which western **counties** received the **highest total amount in post
 Question: in which **state** did the average postmaster receive the highest salary?
 {: .notice--primary}
 
-- Put together the skills you learned in Sheet 1 and 2:
+- Put together the skills you learned in Sheet 1 and Sheet 2:
 	- Make a bar chart with each state as a vertical column
 	- Height of column correspond to average postmaster salary in that state
 	- Sorted in descending order (highest average salary on left, lowest on right)
