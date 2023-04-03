@@ -77,5 +77,8 @@ Question: where were post offices located in each state?
 
 - Publish your Tableau Public workbook by going to File -> Save to Tableau Public and name it `Tableau Public II`
 - Open up your Tableau Public workbook in a browser rather than the desktop app.
-- Click on the Share button: ![]({{site.baseurl}}/assets/images/tableau-share.png)
+- Click the Settings (gear shape) icon and make sure the `Show Sheet` option is set to on:<br>
+![]({{site.baseurl}}/assets/images/show-sheets.png)
+- Click on the Share button:<br>
+![]({{site.baseurl}}/assets/images/tableau-share.png)
 - In the pop-up box, copy and paste the Link URL and [submit it on Canvas](https://ucdenver.instructure.com/courses/503517/assignments/1495645).
