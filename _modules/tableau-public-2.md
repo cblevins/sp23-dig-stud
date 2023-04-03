@@ -4,7 +4,7 @@ title: Tableau Public II
 
 ## Overview
 
-The goal of today is continue develop your comfort working with and analyzing data using Tableau Public. For the purposes of today, you're going to be using a dataset that was made by some lame professor at CU Denver: [1871 Postmaster Salaries]({{site.baseurl}}/modules/1871-postmaster-salaries.csv). This is a dataset that Prof. Blevins collected while researching the history of the US postal system in the American West during the late 1800s. This particular dataset contains information of every post office in the western United States in 1871 along with how much compensation its postmaster received from the federal government that year for operating the post office.
+The goal of today is to continue develop your comfort working with and analyzing data using Tableau Public. For the purposes of today, you're going to be using a dataset that was made by some lame professor at CU Denver: [1871 Postmaster Salaries]({{site.baseurl}}/modules/1871-postmaster-salaries.csv). This is a dataset that Prof. Blevins collected while researching the history of the US postal system in the American West during the late 1800s. This particular dataset contains information of every post office in the western United States in 1871 along with how much compensation its postmaster received from the federal government that year for operating the post office.
 
 ## Get (to know) Your Data
 
