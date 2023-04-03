@@ -258,7 +258,7 @@ classes: narrow
 - In Class ([slides](https://docs.google.com/presentation/d/1tC8Gv7zARN-_ftuP4iG5kQ82jf69vUgIzVIGN_nBShA/edit?usp=sharing)):
 	- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
 	- ["Little Lies" in Mapping](https://docs.google.com/document/d/1G0OrfUMSyBVX8-3Kd_KeMCDHN7XKgmp1XQO-MT3q8wQ/edit?usp=sharing)
-	- Mapping in Tableau Public
+	- [Mapping in Tableau Public]({{site.baseurl}}/modules/mapping-tableau-public/)
 
 ### Wed., Apr. 5: Visualizing Data II
 - Perusall:
