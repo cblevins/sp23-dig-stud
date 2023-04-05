@@ -268,7 +268,7 @@ classes: narrow
 - Perusall:
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/yau_datapoints_ch5?assignmentId=gsiF4Xoc6GYx7ePCX&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1NAjl2ljm0Wpjq6iL8XcGSuJC-clEogFgyblR-UtV_AE/edit?usp=sharing)):
 	- Close reading of first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 	- [Tableau Public III]({{site.baseurl}}/modules/tableau-public-3)
 
@@ -288,8 +288,8 @@ classes: narrow
 
 ### Wed., Apr. 12: Accessing Data
 - Perusall:
-  - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
-  - HIST 5260 / COMM 5081 only: Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
+  - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/hijazi-is-instagram-killing-our-museum-culture-or-reinventing-it?assignmentId=mfyTAQuppRK6WRmDG&part=1)]
+  - HIST 5260 / COMM 5081 only: Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012) [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/christen-does-information-really-want-to-be-free?assignmentId=FYTuuEiCMPjBzcSSw&part=1)]
 
 [comment]: # (Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.)
 
