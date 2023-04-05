@@ -1,5 +1,5 @@
 ---
-title: Tableau Public II
+title: Tableau Public III
 ---
 
 ## Overview
@@ -11,7 +11,7 @@ The goal of today is to develop your comfort with visualizing data in Tableau Pu
 - Download the file [`airbnb-listings-denver-2022.csv`]({{site.baseurl}}/modules/airbnb-listings-denver-2022.csv) and save the file inside your `tableau-public` folder on your computer.
 - The data was downloaded from [Insider Airbnb](http://insideairbnb.com/about/). Take a few minutes to explore this site. What seems to be the attitude of the site's creators towards Airbnb?
 - Open Tableau Public and connect to the data file you just downloaded.
-- Take a look at some of the Fields (columns) in the dataset. What kind of information seems to be in here?
+- Take a look at some of the Fields (columns) in the dataset. What kind of information seems to be in here?h
 
 
 ## Analyze Your Data
