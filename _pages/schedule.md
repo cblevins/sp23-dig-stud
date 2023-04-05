@@ -269,7 +269,8 @@ classes: narrow
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/yau_datapoints_ch5?assignmentId=gsiF4Xoc6GYx7ePCX&part=1)]
 
 - In Class ([slides](https://docs.google.com/presentation/d/1NAjl2ljm0Wpjq6iL8XcGSuJC-clEogFgyblR-UtV_AE/edit?usp=sharing)):
-	- Close reading of first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
+	- Brainstorming ideas for final project
+	- [Mapping in Tableau Public]({{site.baseurl}}/modules/mapping-tableau-public/)
 	- [Tableau Public III]({{site.baseurl}}/modules/tableau-public-3)
 
 *[Career Center Appointment and Reflection]({{site.baseurl}}/assignments/career-portfolio) due ~~April 9th~~ April 11th*
