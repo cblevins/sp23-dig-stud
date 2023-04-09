@@ -61,7 +61,3 @@ You are now able to build an exhibit within your Omeka site. Once again, try [to
 **Appearance**: If you would like to change the appearance of your site (colors, design, etc.) you can do so by switching Themes (similar to Wordpress). It's a little bit trickier, however. In this case, you need to download an Omeka Theme from [this list](https://omeka.org/classic/themes/) and use the following instructions to upload it to your Omeka directory through Reclaim Hosting: <https://community.reclaimhosting.com/t/uploading-plugins-to-omeka/195/2>.
 
 **Vocabulary**: if you get confused about the different parts of Omeka, you can refer to Miriam Posner's section on Omeka Vocabulary: <http://miriamposner.com/blog/wp-content/uploads/2013/03/Up-and-Running-with-Omeka2.pdf> 
-
-
-
-

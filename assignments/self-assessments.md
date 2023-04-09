@@ -10,4 +10,4 @@ You will be writing three self assessments in this class. The **first two self a
 
 *Self-Assessment #2 due March 31st by 11:59PM*
 
-*Self-Assessment #3 due May 10th by 11:59PM*
+*Self-Assessment #3 due May 11th by 11:59PM*

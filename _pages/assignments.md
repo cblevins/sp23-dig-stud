@@ -22,7 +22,7 @@ As stated in the [Course Philosophy]({{site.baseurl}}/policies), I will not be u
 - Complete a series of three self-assessments over the course of the semester.
   - Self-Assessment #1 due February 19th
   - Self-Assessment #2 due March 31st
-  - Self-Assessment #3 due May 10th
+  - Self-Assessment #3 due May 11th
 
 ## Formal Assignments
 

@@ -281,10 +281,11 @@ classes: narrow
 - Perusall:
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017. [[Perusall](https://app.perusall.com/courses/intro-to-digital-studies-spring-2023/thompson-why-dont-archivists-digitize-everything?assignmentId=x7GSszfH3WocbzbTR&part=1)]
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1Rt5US194p44Ad_EOVB1cIiWTeR4cMaf3PWePuk4muAA/edit?usp=sharing)):
 	- Class visit from [Nickoal Eichmann-Kalwara](https://nickoal.com/), Digital Scholarship Librarian at the University of Colorado Boulder.
-	- Working with metadata
-
+	- [Digital Archives activity](https://docs.google.com/document/d/1zmDNA7RCFbt8DrInN-Xi5z89_mid61bUXj-aut0x5hs/edit?usp=sharing)
+	- Final project examples
+	
 [comment]: # (- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/modules/install-omeka) through your Reclaim Hosting account.)
 
 ### Wed., Apr. 12: Accessing Data
@@ -295,8 +296,10 @@ classes: narrow
 [comment]: # (Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.)
 
 - In Class (slides):
-	- [Digital Collections in Omeka]({{site.baseurl}}/modules/omeka)
+	- Digital Archives 
 	- Data Exploration Workshop
+
+[comment]: # ([Digital Collections in Omeka]({{site.baseurl}}/modules/omeka))
 
 ## Wrapping Up
 
@@ -330,6 +333,8 @@ Draft of [Final Project]({{site.baseurl}}/assignments/final-project) due by begi
 {: .notice--info}
 	
 ### Wed., May. 3: Wrapping Up
+- No reading - just show up to class one last time! :thumbsup:
+
 
 *[Website Portfolio]({{site.baseurl}}/assignments/career-portfolio) due May 5th*
 {: .notice--info}
@@ -337,8 +342,8 @@ Draft of [Final Project]({{site.baseurl}}/assignments/final-project) due by begi
 *[Build a Tutorial]({{site.baseurl}}/assignments/tutorial) (HIST 5260/COMM 5081 only) due May 8th*
 {: .notice--info}
 
-*[Final Project]({{site.baseurl}}/assignments/final-project) due May 9th*
+*[Final Project]({{site.baseurl}}/assignments/final-project) due May 10th*
 {: .notice--info}
 
-*[Final Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due May 10th*
+*[Final Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due May 11th*
 {: .notice--info}
