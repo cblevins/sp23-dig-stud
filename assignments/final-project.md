@@ -67,13 +67,9 @@ Your final project is due during finals week. You will submit two things on Canv
 
 []({{site.baseurl}}/assets/other/podcast-excerpts.mp3)
 
-iframe width="100%" height=500 src="https://public.tableau.com/views/LongmontMuseumGeolocatedPhotoCollection/Dashboard1?:showVizHome=no&:embed=true"></iframe>
-
 <audio controls>
-  <source src="https://cblevins.github.io/sp23-dig-stud/assets/other/podcast-excerpts.mp3" type="audio/mp3">
+  <source src="https://cblevins.github.io/sp23-dig-stud/assets/other/podcast-excerpts.mp3">
 </audio>
-
-<audio controls src="https://cblevins.github.io/sp23-dig-stud/assets/other/podcast-excerpts.mp3"></audio>
 
 ### Data visualization of a museum’s historic photograph collection
 
