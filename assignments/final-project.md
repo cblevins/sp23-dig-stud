@@ -53,9 +53,16 @@ Your final project is due during finals week. You will submit two things on Canv
 
 *Revised final project and reflection due on Canvas by May 10th at 11:59PM*
 
-## Examples of Final Projects
+## Examples of Final Projects from Intro to Digital Studies (Spring 2022)
 
-### Promotional video for a student’s outdoor recreational group (excerpts):
+### Podcast episode on fast fashion (excerpt)
+
+<audio style="width:100%" controls>
+  <source src="https://cblevins.github.io/sp23-dig-stud/assets/other/podcast-excerpt.mp3" type="audio/mp3">
+</audio>
+<br>
+
+### Promotional video for outdoor recreational group (excerpts):
 
 {% include video id="4Ys8FvuirGc" provider="youtube" %}
 
@@ -63,14 +70,6 @@ Your final project is due during finals week. You will submit two things on Canv
 
 ![]({{site.baseurl}}/assets/other/storymap-excerpts.gif)
 
-### Podcast episode on fast fashion (excerpts)
-
-[]({{site.baseurl}}/assets/other/podcast-excerpts.mp3)
-
-<audio controls>
-  <source src="https://cblevins.github.io/sp23-dig-stud/assets/other/podcast-excerpts.mp3">
-</audio>
-
-### Data visualization of a museum’s historic photograph collection
+### [Data visualization of Longmont Museum's historic photograph collection](https://public.tableau.com/views/LongmontMuseumGeolocatedPhotoCollection/Dashboard1)
 
 <iframe width="100%" height=500 src="https://public.tableau.com/views/LongmontMuseumGeolocatedPhotoCollection/Dashboard1?:showVizHome=no&:embed=true"></iframe>
