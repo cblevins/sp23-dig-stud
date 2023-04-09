@@ -72,4 +72,4 @@ Your final project is due during finals week. You will submit two things on Canv
 
 ### [Data visualization of Longmont Museum's historic photograph collection](https://public.tableau.com/views/LongmontMuseumGeolocatedPhotoCollection/Dashboard1)
 
-<iframe width="100%" height=500 src="https://public.tableau.com/views/LongmontMuseumGeolocatedPhotoCollection/Dashboard1?:showVizHome=no&:embed=true"></iframe>
+<iframe width="100%" height=600 src="https://public.tableau.com/views/LongmontMuseumGeolocatedPhotoCollection/Dashboard1?:showVizHome=no&:embed=true"></iframe>
