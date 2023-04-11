@@ -30,11 +30,7 @@ Write a 300-400 word idea for your final project that includes the following:
 
 ## Draft of Project
 
-You will be submitting a draft of your final project during the last week of class. Submit this draft on Canvas through a 
-
-media file upload, URL to website, etc. (consult with Prof. Blevins ahead of time on the format of the submission)
-
- and giving a 5-minute presentation of the project to a group of classmates. The goal of this submission is to get feedback so that you can incorporate revisions into the final submission.
+You will be submitting a draft of your final project during the last week of class. Submit this draft on Canvas through a media file upload, URL to website, etc. (consult with Prof. Blevins ahead of time on the format of the submission). You will then give a 5-minute presentation of the project to a group of classmates. The goal of this step of the project is to get feedback so that you can incorporate revisions into the final submission.
 
 *Draft of final project due on Canvas by May 1st at 12:30pm (in-class presentation on May 1st)*
 
