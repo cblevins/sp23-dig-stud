@@ -295,7 +295,7 @@ classes: narrow
 
 [comment]: # (Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.)
 
-- In Class (slides):
+- In Class ([slides](https://docs.google.com/presentation/d/1MqMEGj604elbaacQVPCiLH_Vyd8LkaV8MlbFGW_WnD4/edit?usp=sharing)):
 	- [Classification Activity](https://docs.google.com/document/d/1gxrjPd1xCcrQ4iw6UA9KOVC7aWKhcnshQ2vYPxIuCh8/edit?usp=sharing)
 	- Data Exploration Workshop
 

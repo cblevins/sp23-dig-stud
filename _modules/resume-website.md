@@ -6,7 +6,7 @@ toc: false
 Your goal is to build a page on your Wordpress site that will serve as a public-facing resume that you can use for potential employers.
 
 - Log into your Wordpress dashboard and [create a new page](https://wordpress.org/support/article/pages/) titled "Resume" 
-- Add the Resume page as [a Menu item to your Wordpress site](https://codex.wordpress.org/WordPress_Menu_User_Guide) so that it a reader can navigate to it from your main site page.
+- Add the Resume page as [a link in your Wordpress site Navigation Menu](https://wordpress.com/support/site-editing/theme-blocks/navigation-block/) so that it a reader can navigate to it from your main site page.
 - Add some resume content to your page:
 	* Contact Information: Put your contact information at the top of your resume. It should include your name and email address. If you choose to use your University email address (@ucdenver.edu) remember that you might not have access to it after graduation.
 	* Professional Summary: 3-4 sentences or bullet points highlighting transferable skills and what you are seeking in employment
