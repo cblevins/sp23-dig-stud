@@ -325,7 +325,7 @@ classes: narrow
 - No reading - work on your final project
 
 - In Class (slides):
-	- Workshop on finalizing your personal website to use as a professional portfolio (part of [Career Portfolio](({{site.baseurl}}/assignments/career-portfolio)) assignment)
+	- [Workshop on finalizing your personal website to use as a professional portfolio]({{site.baseurl}}/modules/website-portfolio) tutorial (part of [Career Portfolio]({{site.baseurl}}/assignments/career-portfolio) assignment)
 
 ### Mon., May. 1: Final Project Presentations
 
@@ -334,7 +334,6 @@ Draft of [Final Project]({{site.baseurl}}/assignments/final-project) due by begi
 	
 ### Wed., May. 3: Wrapping Up
 - No reading - just show up to class one last time! :thumbsup:
-
 
 *[Website Portfolio]({{site.baseurl}}/assignments/career-portfolio) due May 5th*
 {: .notice--info}
